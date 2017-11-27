@@ -7,37 +7,42 @@ from selenium.common.exceptions import NoSuchElementException
 
 
 class JokeExtractor(object):
-	def __init__(self, valid_domains, num_pages):
+	def __init__(self, valid_domains, num_pages=2, expand_attempts=5,
+				 age_restriction=False):
 		if isinstance(valid_domains, (list, tuple)):
 			self.valid_domains = valid_domains
 		else:
 			self.valid_domains = [valid_domains]
 
 		self.num_pages = num_pages
+		self.expand_attempts = expand_attempts
+		self.age_restriction = age_restriction
 
 	def extract(self, start_url):
 		driver = webdriver.Firefox()
 		driver.get(start_url)
 
-		self._click_age_button_if_exists(driver)
-
 		jokes = []
 		pages_accessed = 0
+
+		if not self.age_restriction:
+			self._click_age_button_if_exists(driver)
+		elif self._is_age_restricted(driver):
+			driver.close()
+			return jokes
 
 		start = time.time()
 
 		while pages_accessed < self.num_pages:
 			for (premise, punchline), domain in self._get_jokes(driver):
-				if premise is None or punchline is None:
-					continue
-
 				jokes.append((premise, punchline, domain))
 
 			next_page = self._get_next_page(driver)
-			pages_accessed += 1
 
 			if next_page is None:
-				continue
+				break
+
+			pages_accessed += 1
 
 			driver.get(next_page)
 
@@ -45,6 +50,7 @@ class JokeExtractor(object):
 
 		driver.close()
 
+		print(start_url)
 		print("Total time in seconds:", end - start)
 
 		if pages_accessed > 0:
@@ -64,7 +70,7 @@ class JokeExtractor(object):
 			if button is None:
 				continue
 
-			yield self._get_joke(entry, button, 3), domain
+			yield self._get_joke(entry, button, self.expand_attempts), domain
 
 	def _get_joke(self, entry, button, attempts_left):
 		if attempts_left == 0:
@@ -109,6 +115,13 @@ class JokeExtractor(object):
 		except NoSuchElementException:
 			pass
 
+	def _is_age_restricted(self, driver):
+		try:
+			driver.find_element_by_xpath("//button[@name='over18'][@value='yes']")
+			return True
+		except NoSuchElementException:
+			return False
+
 
 def run_extraction():
 	base_url = "https://www.reddit.com/r/"
@@ -124,7 +137,6 @@ def run_extraction():
 	start_urls = [base_url + subreddit for subreddit in subreddits]
 
 	extractor = JokeExtractor(subreddits, 1)
-
 	jokes = Parallel(n_jobs=-1)(delayed(extractor.extract)(start_url) for start_url in start_urls[-1:])
 
 	formatted_jokes = {}
@@ -132,8 +144,11 @@ def run_extraction():
 
 	for subreddit_jokes in jokes:
 		for premise, punchline, subreddit in subreddit_jokes:
-			formatted_jokes[joke_id] = {"premise": premise.strip(),
-										"punchline": punchline.strip(),
+			if premise is None and punchline is None:
+				continue
+
+			formatted_jokes[joke_id] = {"premise": premise,
+										"punchline": punchline,
 										"subreddit": subreddit}
 			joke_id += 1
 
