@@ -19,6 +19,8 @@ class JokeExtractor(object):
 		driver = webdriver.Firefox()
 		driver.get(start_url)
 
+		self._click_age_button_if_exists(driver)
+
 		jokes = []
 		pages_accessed = 0
 
@@ -101,18 +103,29 @@ class JokeExtractor(object):
 		except NoSuchElementException:
 			return None
 
+	def _click_age_button_if_exists(self, driver):
+		try:
+			driver.find_element_by_xpath("//button[@name='over18'][@value='yes']").click()
+		except NoSuchElementException:
+			pass
+
 
 def run_extraction():
 	base_url = "https://www.reddit.com/r/"
 	subreddits = ["Jokes", "DirtyJokes", "cleanjokes", "AntiJokes", "Antihumor",
 				  "darkjokes", "MeanJokes", "AntiAntiJokes", "dadjokes", "ProgrammerHumor",
 				  "MathJokes", "MommaJokes", "3amjokes", "ShortCleanFunny", "badjokes",
-				  "deadbabyjokes", "DarkHumor"]
+				  "deadbabyjokes", "DarkHumor", "Punny", "pun", "ScienceJokes", "chemistryjokes",
+				  "science_jokes", "intellectualdadjokes", "ProgrammerDadJokes", "nsfwdadjokes",
+				  "dadjokesinhistory", "Hearthstonedadjokes", "dadsouls", "warcraftdadjokes",
+				  "dota2dadjokes", "DestinyDadJokes", "FFXIVDadjokes", "Falloutdadjokes", "DMDadJokes",
+				  "skyrimdadjokes", "OverwatchDadjokes", "DarkDadJokes", "CivDadJokes", "TrahearneJokes",
+				  "StarWarsDadJokes", "eu4dadjokes", "shubreddit", "momjokes"]
 	start_urls = [base_url + subreddit for subreddit in subreddits]
 
-	extractor = JokeExtractor(subreddits, 100)
+	extractor = JokeExtractor(subreddits, 1)
 
-	jokes = Parallel(n_jobs=-1)(delayed(extractor.extract)(start_url) for start_url in start_urls[-1])
+	jokes = Parallel(n_jobs=-1)(delayed(extractor.extract)(start_url) for start_url in start_urls[-1:])
 
 	formatted_jokes = {}
 	joke_id = 1
@@ -124,18 +137,18 @@ def run_extraction():
 										"subreddit": subreddit}
 			joke_id += 1
 
-	# with open("../data/jokes.json", "w", encoding="utf-8") as outfile:
-	# 	json.dump(formatted_jokes, outfile, indent=4, sort_keys=True)
+	with open("../data/jokes.json", "w", encoding="utf-8") as outfile:
+		json.dump(formatted_jokes, outfile, indent=4, sort_keys=True)
 
 
 def main():
-	# run_extraction()
+	run_extraction()
 
 
-	with open("../data/jokes.json", "r") as infile:
-		jokes = json.load(infile)
-
-	print(len(jokes))
+# with open("../data/jokes.json", "r") as infile:
+# 	jokes = json.load(infile)
+#
+# print(len(jokes))
 
 
 if __name__ == "__main__":
