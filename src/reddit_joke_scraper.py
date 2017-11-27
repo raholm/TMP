@@ -123,7 +123,7 @@ class RedditJokeScraper(object):
 			return False
 
 
-def run_extraction():
+def run_joke_scraper():
 	base_url = "https://www.reddit.com/r/"
 	subreddits = ["Jokes", "DirtyJokes", "cleanjokes", "AntiJokes", "Antihumor",
 				  "darkjokes", "MeanJokes", "AntiAntiJokes", "dadjokes", "ProgrammerHumor",
@@ -157,7 +157,7 @@ def run_extraction():
 
 
 def main():
-	run_extraction()
+	run_joke_scraper()
 
 
 # with open("../data/jokes.json", "r") as infile:
