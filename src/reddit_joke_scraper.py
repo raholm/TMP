@@ -6,7 +6,7 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 
 
-class JokeExtractor(object):
+class RedditJokeScraper(object):
 	def __init__(self, valid_domains, num_pages=2, expand_attempts=5,
 				 age_restriction=False):
 		if isinstance(valid_domains, (list, tuple)):
@@ -18,7 +18,7 @@ class JokeExtractor(object):
 		self.expand_attempts = expand_attempts
 		self.age_restriction = age_restriction
 
-	def extract(self, start_url):
+	def scrape(self, start_url):
 		driver = webdriver.Firefox()
 		driver.get(start_url)
 
@@ -136,8 +136,8 @@ def run_extraction():
 				  "StarWarsDadJokes", "eu4dadjokes", "shubreddit", "momjokes"]
 	start_urls = [base_url + subreddit for subreddit in subreddits]
 
-	extractor = JokeExtractor(subreddits, 1)
-	jokes = Parallel(n_jobs=-1)(delayed(extractor.extract)(start_url) for start_url in start_urls[-1:])
+	scraper = RedditJokeScraper(subreddits, 1000)
+	jokes = Parallel(n_jobs=-1)(delayed(scraper.scrape)(start_url) for start_url in start_urls[-1:])
 
 	formatted_jokes = {}
 	joke_id = 1
