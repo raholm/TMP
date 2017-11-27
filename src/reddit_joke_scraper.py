@@ -35,6 +35,9 @@ class RedditJokeScraper(object):
 
 		while pages_accessed < self.num_pages:
 			for (premise, punchline), domain in self._get_jokes(driver):
+				if premise is None and punchline is None:
+					continue
+
 				jokes.append((premise, punchline, domain))
 
 			next_page = self._get_next_page(driver)
@@ -144,9 +147,6 @@ def run_joke_scraper():
 
 	for subreddit_jokes in jokes:
 		for premise, punchline, subreddit in subreddit_jokes:
-			if premise is None and punchline is None:
-				continue
-
 			formatted_jokes[joke_id] = {"premise": premise,
 										"punchline": punchline,
 										"subreddit": subreddit}
