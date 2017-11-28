@@ -1,0 +1,794 @@
+{
+    "1": {
+        "id": "6y2b47",
+        "premise": "[Meta] Clarification on rules",
+        "punchline": "Hello world!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "2": {
+        "id": "7fw9nm",
+        "premise": "Linus Torvalds: \"What should I call one of the most dangerous and destructive Git operations?\"",
+        "punchline": "Programmer friend: \"You mean like forcefully overwriting changes in a remote repo?\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "3": {
+        "id": "7g0le1",
+        "premise": "Why can't Comcast use async/await in their Javascript programs?",
+        "punchline": "Because they have no Promise.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "4": {
+        "id": "7fygiu",
+        "premise": "What do you call an anxious army coder?",
+        "punchline": "Colonel Panic",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "5": {
+        "id": "7fwahp",
+        "premise": "A 31 year old can count his/her age with the fingers of one hand.",
+        "punchline": "33 is the best age. Two thumbs up!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "6": {
+        "id": "7fuu7p",
+        "premise": "What did the programmer say to his friend before he went to the toilet?",
+        "punchline": "Be right back, I have an stack overflow and need to coredump.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "7": {
+        "id": "7fwtti",
+        "premise": "If a bit is a 0 or 1, a nybble is 4 bits and a byte is 8 bits, what's 2 bits?",
+        "punchline": "A shave and a haircut.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "8": {
+        "id": "7fsy1z",
+        "premise": "My friend thought he could learn to program in one night.",
+        "punchline": "He started off at 8pm by going to a convenience store and buying some coffee and a stale doughnut.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "9": {
+        "id": "7fu01x",
+        "premise": "You have no class, sir!",
+        "punchline": "Said once C++ to C",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "10": {
+        "id": "7fv1dx",
+        "premise": "Are you the first item in an array?",
+        "punchline": "Because damn, I see 0 without you.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "11": {
+        "id": "7fpi11",
+        "premise": "I got 99 problems",
+        "punchline": "but problems[99] ain't one.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "12": {
+        "id": "7fsebv",
+        "premise": "*coded javascript for a few hours, then went to bed and woke up* \"Voodoo dolls are just references!\"",
+        "punchline": "\"...or am I and the voodoo doll both references to the same object?\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "13": {
+        "id": "7frla6",
+        "premise": "Might not be in the spirit of the sub, but I had a lot of fun obfuscating a C print-heap function!",
+        "punchline": "I wrote the function and my friend asked me to send it to him so we could compare.. I spent two hours making it as illegible as possible, and here's my final result! It should be noted this code compiles, runs and doesn't segfault or leak memory. Hope you enjoy!!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "14": {
+        "id": "7fszxe",
+        "premise": "How do exterminators find pests?",
+        "punchline": "They use Pest-First Search",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "15": {
+        "id": "7ft5j4",
+        "premise": "I was having trouble with the 'world' array",
+        "punchline": "What is wrong with the world?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "16": {
+        "id": "7fq4lr",
+        "premise": "I need help finding a video to show to a friend",
+        "punchline": "It was a video on some random website to teach computers. It spent around 5 minutes just ripping into java in a comedic way. IIRC I first saw it in this thread But I was unable to find it again.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "17": {
+        "id": "7fk53x",
+        "premise": "I wish natural languages had been designed by programmers",
+        "punchline": "So that there wouldn't be so many exceptions.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "18": {
+        "id": "7fq4wj",
+        "premise": "Friends",
+        "punchline": "namespace friends{ class Rachel{ friend class Monica; friend class Phoebe; friend class Joey; friend class Ross;",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "19": {
+        "id": "7feaqi",
+        "premise": "Why do software testers have so many children?",
+        "punchline": "because they're trained to reproduce mistakes",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "20": {
+        "id": "7fhg2q",
+        "premise": "When I'm feeling dumb, that's when I realise I was written in C++...",
+        "punchline": "...I have a memory leak :-(",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "21": {
+        "id": "7fd0fp",
+        "premise": "JSFuckery",
+        "punchline": "I'm playing this game called Screeps where you use JavaScript to write an AI to control bots in a multiplayer environment blah blah blah. I was trying to redefine console.log so that it would print the game's time in this format: [TIME] log. For some reason (probably JS being ritualistic black magic), it ONLY WORKS ON TICKS THAT ARE A MULTIPLE OF 11, I kid you not. https://hastebin.com/osiguhadem.vbs",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "22": {
+        "id": "7fdkqd",
+        "premise": "Quitting VIM",
+        "punchline": "How come I've been seeing so many VIM memes these past few days? Or is it just because I've just been here too long trying to get away from my lingering bugs and unsolved TODOs?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "23": {
+        "id": "7fen88",
+        "premise": "After 40 minutes trying to put 30+ images on the Internet to a A4 page in a Writer (alt. Word), I gave up and write a script to use HTML",
+        "punchline": "Took 10 minutes and printed out beautifully thanks to @page rules. The work on the word processor weren't even half finished.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "24": {
+        "id": "7fcyeg",
+        "premise": "There are two types of people in this world...",
+        "punchline": "0: Those who understand that one always should start counting from 0. 1: Those who don\u2019t. 2: Those who don\u2019t, but will pretend that they do by saying something like, \u201cI understand what you mean. I\u2019m an artist too,\u201d and when questioned on their response and have had the joke explained to them will respond with, \u201cProgrammer? That\u2019s totally what I meant when I said artist! What, you don\u2019t think programming is an art? Obviously you aren\u2019t a real programmer like me!\u201d",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "25": {
+        "id": "7f6m16",
+        "premise": "Why did the multi-thread chicken crossed the road?",
+        "punchline": "side. To the get other to",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "26": {
+        "id": "7f893f",
+        "premise": "Just made a pitch for a CS project, my professor told us that Java couldn't be used to make TCP servers",
+        "punchline": "Either he's right or that's a pretty good joke",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "27": {
+        "id": "7f3cto",
+        "premise": "I'm going to code my own scheduler and name it Anakin...",
+        "punchline": "It may be a bit aggressive in killing child processes though...",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "28": {
+        "id": "7f1au9",
+        "premise": "How many to change a lightbulb?",
+        "punchline": "Q: How many FORTRAN programs does it take to change a lightbulb?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "29": {
+        "id": "7f1v13",
+        "premise": "What kind of drug do programmers sip??",
+        "punchline": "boo-LEAN ahahahah kill me",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "30": {
+        "id": "7ermge",
+        "premise": "A 64 bit integer walks into a bar. The bartender says,",
+        "punchline": "\u201cWhy the long long face?\u201d",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "31": {
+        "id": "7eyb8y",
+        "premise": "How do you make a sad JavaScript developers feel better?",
+        "punchline": "You console.log them.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "32": {
+        "id": "7evnw4",
+        "premise": "What did one blockchain say to another?",
+        "punchline": "Don't mine me, I'm just forking.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "33": {
+        "id": "7evcrj",
+        "premise": "I AM ROOT",
+        "punchline": "Enhance your Linux experience!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "34": {
+        "id": "7evfo0",
+        "premise": "What is the most shocking video on the internet for Java developers?",
+        "punchline": "One guy one jar.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "35": {
+        "id": "7erb77",
+        "premise": "What's a programmer's favorite drug?",
+        "punchline": "Hash",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "36": {
+        "id": "7eqnop",
+        "premise": "Q: Why is Yoda such a bad coder?",
+        "punchline": "A: There is no try.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "37": {
+        "id": "7eup8v",
+        "premise": "Hungarian notation?",
+        "punchline": "Is that when you make a\nfor(int ...?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "38": {
+        "id": "7eup2v",
+        "premise": "traceroute bad.horse",
+        "punchline": "(or 'tracert \u2013h 60 bad.horse' for you windows folks)",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "39": {
+        "id": "7epny2",
+        "premise": "What do priests and arrays have in common?",
+        "punchline": "Both start at 0",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "40": {
+        "id": "7ex87e",
+        "premise": "Do not lose your hope in $scope",
+        "punchline": "For those are leaving from AngularJS",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "41": {
+        "id": "7ejxsr",
+        "premise": "I used to think my work as a programmer had nothing to do with my dad's work as a stone mason",
+        "punchline": "Yesterday he sent me an old photo of a spiral stone staircase he made in the late 1990s.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "42": {
+        "id": "7euktu",
+        "premise": "for private while",
+        "punchline": "short native goto public char. public char new, static. native assert: \"do, else!\". public char, protected, try. continue do this synchronized for while. native long, extends double. public char implements super. finally, volatile public char byte; native break public char interface.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "43": {
+        "id": "7ev7ck",
+        "premise": "How do you write great javascript?",
+        "punchline": "Learn Python instead",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "44": {
+        "id": "7e7puz",
+        "premise": "My girlfriend accused me of caring more about programming than her. I told her she's first place in my life.",
+        "punchline": "Of course, little did she know that real programmers start counting from zero.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "45": {
+        "id": "7efs02",
+        "premise": "A group of computer science geeks were listening to a lecture about Java programming at university.",
+        "punchline": "After the lecture, one of the men leaned over and grabbed a woman\u2019s breast. Woman: Hey! That\u2019s private OK ? The man hesitated for a second looking confused. Man: But I thought we were in the same class",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "46": {
+        "id": "7ec1d0",
+        "premise": "Imagine working on a porn website...",
+        "punchline": "and having to say to your coworker \"I'll do the front end if you do the back end\" with a straight face",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "47": {
+        "id": "7eippv",
+        "premise": "A software developer and tester walk into a bar...",
+        "punchline": "A software developer and tester walk into a bar and start drinking together. After awhile the bartender says \"Hold on guys, I can't serve you anymore drinks until you both pass a sobriety test.\" He turns to the tester and says \"How many fingers do you have on one hand?\" \"Five\" comes the reply so the bartender gives him another drink. He turns to the developer and says \"How many fingers do you have on one hand?\". \"That's easy!\" says the developer, \"Four.\" The developer holds out his hand and counts \"zero, one, two, three, four.\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "48": {
+        "id": "7e85dh",
+        "premise": "So this person is putting try catch methods everywhere and I'm so angry",
+        "punchline": "It makes me want to throw something",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "49": {
+        "id": "7ec0pe",
+        "premise": "To understand what recursion is,",
+        "punchline": "you must first understand recursion",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "50": {
+        "id": "7e79kx",
+        "premise": "!false",
+        "punchline": "It's funny because it's true.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "51": {
+        "id": "7effb8",
+        "premise": "Why did the Segwit2X fork of Bitcoin fail?",
+        "punchline": "Because of an off by one error.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "52": {
+        "id": "7e6d3m",
+        "premise": "I want you to build me a car",
+        "punchline": "C: All the parts work really well! They're super fast and efficient. But, um, can you put all the parts together?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "53": {
+        "id": "7e9a7u",
+        "premise": "False == False in [False]",
+        "punchline": "It's funny because it's True.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "54": {
+        "id": "7e15bg",
+        "premise": "My command prompt recently got a virus...",
+        "punchline": "It was a terminal illness.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "55": {
+        "id": "7e61mc",
+        "premise": "Programming is like shitting",
+        "punchline": "You never know when you will be done",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "56": {
+        "id": "7e3qz2",
+        "premise": "Zero developers enter an Indian restaurant...",
+        "punchline": "Zero JS developers enter an Indian restaurant and order a curry to be divided equally between them.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "57": {
+        "id": "7e4e2l",
+        "premise": "The definition of insanity",
+        "punchline": "The definition of insanity is doing the same thing over and over again and not writing a perl script to do it for you.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "58": {
+        "id": "7dwkq2",
+        "premise": "Future Programmer",
+        "punchline": "My little 9 year old sister says to me \"Are you smart or dumb? If you think you're smart count to 10.\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "59": {
+        "id": "7dw5nw",
+        "premise": "Hi, I'd like to hear a TCP joke.",
+        "punchline": "Yes, I'd like to hear a TCP joke.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "60": {
+        "id": "7dz3an",
+        "premise": "[showerThought] You should only ping websites you don't like to test your connection. Imagine if everyone did that, bad websites would be DDoS'd by ping!",
+        "punchline": "Inspired by https://www.reddit.com/r/ProgrammerHumor/comments/7dvdl9/showerthought_google_must_get_a_shit_tonne_of/",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "61": {
+        "id": "7e224l",
+        "premise": "var punch = parseInt(\"Gutsman's\"), line = parseInt(\" ass\");",
+        "punchline": "NaN NaN",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "62": {
+        "id": "7dwqgj",
+        "premise": "Groups of Animals...",
+        "punchline": "Coalition of Cheetahs",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "63": {
+        "id": "7dzrsj",
+        "premise": "isEven in python",
+        "punchline": "Num1 = int(input(\u201cEnter number: \u201c)) Num2 = Num1 / 2 Num3 = int(Num2) if Num2 == Num3: print(\u201cEven\u201d) else: print(\u201cOdd\u201d)",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "64": {
+        "id": "7do7iq",
+        "premise": "What the difference between a junior developer and a senior developer?",
+        "punchline": "A junior will always think \"I can't do this\" while a senior will say \"How the fuck am I suppose to do this?\".",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "65": {
+        "id": "7djku6",
+        "premise": "Sharing a link to a gif is like passing by reference, and sharing the gif itself is passing by value.",
+        "punchline": "/r/Showerthoughts",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "66": {
+        "id": "7dj2ra",
+        "premise": "schrodinger's webpage",
+        "punchline": "It's not broken until you refresh the page",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "67": {
+        "id": "7dc2a0",
+        "premise": "How do programmers make popcorn?",
+        "punchline": "First they push the corn on a stack, then pop them one by one.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "68": {
+        "id": "7dg44o",
+        "premise": "How do programmers perambulate?",
+        "punchline": "step++",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "69": {
+        "id": "7dee9k",
+        "premise": "C++",
+        "punchline": "Instead of C++ you could also say C----",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "70": {
+        "id": "7defja",
+        "premise": "Felt like doing a little isEven...",
+        "punchline": "knuckle crack",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "71": {
+        "id": "7djs2o",
+        "premise": "Correct Horse Battery",
+        "punchline": "Stable",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "72": {
+        "id": "7df90q",
+        "premise": "I always think of this quote when I successfully vertically align an element.",
+        "punchline": "\u201cAs the cheering continued, Rhyme leaned forward and touched Milo gently on the shoulder. \"They're cheering for you,\" she said with a smile. \"But I could never have done it,\" he objected, \"without everyone else's help.\" \"That may be true,\" said Reason gravely, \"but you had the courage to try; and what you can do is often simply a matter of what you will do.\" \"That's why,\" said Azaz, \"there was one very important thing about your quest that we couldn't discuss until you returned. \"I remember,\" said Milo eagerly. \"Tell me now.\" \"It was impossible,\" said the king, looking at the Mathemagician. \"Completely impossible,\" said the Mathemagician, looking at the king. \"Do you mean----\" said the bug, who suddenly felt a bit faint. \"Yes, indeed,\" they repeated together; \"but if we'd told you then, you might not have gone---and, as you've discovered, so many things are possible just as long as you don't know they're impossible.\" And for the remainder of the ride Milo didn't utter a sound.\u201d \u2015 Norton Juster, The Phantom Tollbooth",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "73": {
+        "id": "7dhnrm",
+        "premise": "So a man was programming as is his usual work.",
+        "punchline": "Then all of a sudden a solar eclipse is happening. His friends say yell all excited \"Hey look, eclipse!\" The man says, \"So what I use eclipse every day.\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "74": {
+        "id": "7d8a2l",
+        "premise": "I hate talking about binary searches, it's such a divisive subject.",
+        "punchline": "Discussion of linear searches, however, are much more straight forward.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "75": {
+        "id": "7d4zzq",
+        "premise": "TIL about HTTP Status Code 418 - I'm a teapot",
+        "punchline": "Any attempt to brew coffee with a teapot should result in the error code \"418 I'm a teapot\". The resulting entity body MAY be short and stout.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "76": {
+        "id": "7d73zx",
+        "premise": "Every programmer\u2019s most hated Japanese man",
+        "punchline": "Mr. Goto",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "77": {
+        "id": "7d4nk4",
+        "premise": "Newbie programmer - Implementing a friend list",
+        "punchline": "Implementing friend list functionality to an app I'm trying to build makes me not want to have friends.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "78": {
+        "id": "7cvk22",
+        "premise": "My son wanted me to buy him something.",
+        "punchline": "He's 9 and there's this \"learn to code\" game on his phone called Lightbot that I've been trying to get him to play. I told him if he can beat all the levels I'd give him $10. He comes back the next day with all the levels completed. I look at it and I say \"wow some of these are complicated, how did you figure it out?\". Then he says \"for the hard ones I just looked up how to do it on youtube\". I've never been so proud.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "79": {
+        "id": "7d6ybo",
+        "premise": "Why did the programmer go to the eye doctor?",
+        "punchline": "Because he couldn't c.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "80": {
+        "id": "7d74yk",
+        "premise": "Who needs conditionals or loops?",
+        "punchline": "Checking if a number is even is as simple as:",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "81": {
+        "id": "7d5lf2",
+        "premise": "Java is a DPRK Virus",
+        "punchline": "javaUpdateScheduler",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "82": {
+        "id": "7d7kt7",
+        "premise": "What are the weapons of the different programming languages?",
+        "punchline": "what would each language use?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "83": {
+        "id": "7d5zh4",
+        "premise": "Got trolled in a bat script",
+        "punchline": "Found this nice little gist in a bat file and figured I\u2019d post it in here.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "84": {
+        "id": "7d1awr",
+        "premise": "Modern English be like",
+        "punchline": ".literally { @extend .figuratively; }",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "85": {
+        "id": "7cwz14",
+        "premise": "Why do communists like to program in C?",
+        "punchline": "Because for them, C\u2019s the means of production.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "86": {
+        "id": "7cy8j6",
+        "premise": "I\u2019ve got a really good UDP joke to tell you",
+        "punchline": "I don\u2019t know if you\u2019ll get it, though.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "87": {
+        "id": "7d087d",
+        "premise": "For all the sleep deprived programmers...",
+        "punchline": "GET some REST. Don't worry about the client's response to your to your request until they get back to you. Nothing worth losing sleep over",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "88": {
+        "id": "7cy2ak",
+        "premise": "In honor of the 131st anniversary of the hole pucher",
+        "punchline": "Let us celebrate the first step to quantum computing!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "89": {
+        "id": "7cugcu",
+        "premise": "an IT joke about Jesus",
+        "punchline": "Jesus is nailed to the cross and suffers. The other crucified man on his left says: \"You said you are the Son of God, why don't you teleport away, dematerialize the nails or something?\" \"Unfortunately,\" says Jesus, \"I am now logged in as an ordinary user.\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "90": {
+        "id": "7cxkpy",
+        "premise": "What is a security specialist\u2018s favorite breakfast food?",
+        "punchline": "Salted hash.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "91": {
+        "id": "7cwu4k",
+        "premise": "The best thing about programming while listening music with Spotify...",
+        "punchline": "is that It uses the Dark theme by default.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "92": {
+        "id": "7cw398",
+        "premise": "AAAAANND...FIXED!",
+        "punchline": "Now just the the other 5 problems that led me down this rabbit hole",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "93": {
+        "id": "7cwjkt",
+        "premise": "I'm teaching an intro to C course. What are some TV clips that illustrate concepts in programming?",
+        "punchline": "For example",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "94": {
+        "id": "7cotvs",
+        "premise": "What do you call a group of programmers following good design principles?",
+        "punchline": "Don't call them. They'll call you.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "95": {
+        "id": "7crkeq",
+        "premise": "I got really bored in class so I coded a binary converter into a TI-83 Plus",
+        "punchline": "If you have never used one they have a built in programming language and a programming window I got really bored in geometry so I made this. The semicolons are part of the built in language.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "96": {
+        "id": "7cp1l2",
+        "premise": "Is this how Sledgehammer Games unit tests their games?",
+        "punchline": "code@Test public void testGameWorksGoodAndStuff(){",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "97": {
+        "id": "7co7yl",
+        "premise": "First time running ed (\u00bf)",
+        "punchline": "Discovered ed in an earlier post of today, and run it without reading anything. This shit is hilarious, reminds me of my very first time entering vim by accident :D",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "98": {
+        "id": "7ciz86",
+        "premise": "There's one massive problem with X being replaced by Wayland",
+        "punchline": "The alphabet is gonna be a pain to say.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "99": {
+        "id": "7cio1m",
+        "premise": "We got an intern at my company who was running into a lot of problems from bugs in his code. I took a look at his work and this is what I saw....",
+        "punchline": "For ( i = 1; i <= array.length; i++) { set our team back a day because I don't know arrays start at 0 }",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "100": {
+        "id": "7cpvlw",
+        "premise": "Muhaha! Try to decipher this!",
+        "punchline": "#include<stdio. h>\nint main() {\ndouble ret=1,old=1,fact=1,run=1;\nwhile((old=ret)!=(ret+=1/(fact*=run++)));\nprintf(\"%f\",ret );\nreturn 0;\n}",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "101": {
+        "id": "7cjcse",
+        "premise": "Why do pirates make great data scientists?",
+        "punchline": "Because their favorite programming language is Rrrrrrrrrrrr.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "102": {
+        "id": "7cgzwe",
+        "premise": "Opinions on I.T. (The movie) ?",
+        "punchline": "Couple of friends went to see I.T. and said it was good. Supposed to be a horror movie. Of course. Everything that us people in I.T. have to go through is basically a horror movie. I was curios to see it but a bit afraid that it would not properly capture the essence of what tech is about. I was also a bit confused watching the trailer. Kinda get the clown, but only one? I was expecting a bunch of clowns trying to fix a simple, obvious issue. How hard us it to reboot the fucking switch, Dave? I was also expecting a smooth talking guy in a suit to attract the clown...s in the sewer. Anyway. I went and saw the movie. Complete bullshit. Not one hack or exploit during the whole thing. Not one. Would not recommend.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "103": {
+        "id": "7cgoqa",
+        "premise": "10 Steps for Software Development Life Cycle",
+        "punchline": "Step 1: You start new project and pretty excited about it.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "104": {
+        "id": "7cd46o",
+        "premise": "Why was C++ allowed in Fancy Restaurant but C wasn't",
+        "punchline": "Because C has no class",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "105": {
+        "id": "7cbs7v",
+        "premise": "The fastest way to become a developer",
+        "punchline": "Tap build number 7 times.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "106": {
+        "id": "7cd4k9",
+        "premise": "What is it called when God steps in to correct your code?",
+        "punchline": "A Divine Lintervention",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "107": {
+        "id": "7ccjcd",
+        "premise": "Why do people go to see the equals movie?",
+        "punchline": "Because it's in %3D.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "108": {
+        "id": "7ckivb",
+        "premise": "bool isEven (int x) {",
+        "punchline": "No clue if it works.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "109": {
+        "id": "7ccjp8",
+        "premise": "So we were digging around Oracle's JMH meme internals...",
+        "punchline": "http://hg.openjdk.java.net/code-tools/jmh/file/tip/jmh-core/src/main/java/org/openjdk/jmh/infra/Blackhole.java#l281",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "110": {
+        "id": "7cc5o6",
+        "premise": "I'm so sick of the same jokes on here!",
+        "punchline": "You might ask, how isEven relevant?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "111": {
+        "id": "7c7qs1",
+        "premise": "What does George R. R. Martin do when a new chapter of the book is ready?",
+        "punchline": "got commit",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "112": {
+        "id": "7c1ovo",
+        "premise": "You can never be too careful...",
+        "punchline": "Actual Java code written by my boss:",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "113": {
+        "id": "7c3ws6",
+        "premise": "Hey, are you Italian?",
+        "punchline": "Because your code sure looks like spaghetti.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "114": {
+        "id": "7c8s5i",
+        "premise": "I've heard you like obfuscation.",
+        "punchline": "How to find the largest element in the array",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "115": {
+        "id": "7c4x61",
+        "premise": "Religion as a Service",
+        "punchline": "Q: When a god becomes popular, how does it scale to handle the increasing amount of requests and avoid starvation?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "116": {
+        "id": "7c1i89",
+        "premise": "Bet you guys haven't seen an isEven this good",
+        "punchline": "bool isEven(long long num) { return num % 2 == 0; }",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "117": {
+        "id": "7bz49d",
+        "premise": "You know you've been on the computer too long when...",
+        "punchline": "What funny things do you think or do when you've been coding too long?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "118": {
+        "id": "7bvlpk",
+        "premise": "If I had one dollar for every integer-related bug I ever created...",
+        "punchline": "...I would have -2,147,483,648 dollars.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "119": {
+        "id": "7bwvcu",
+        "premise": "Raycast sort - a sorting method of the future",
+        "punchline": "After an extensive amount of time spent procrastinating brainstorming, I've devised a new sorting method - one that only takes n amount of passes (where n is the length of an array).",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "120": {
+        "id": "7bwskd",
+        "premise": "The most amazing thing I've ever seen in my career of programming",
+        "punchline": "I went to http://w2ui.com/web/demo/grid to desperately try to verify that someone on my team fucked up while using this library because I could not believe the html that was generated while inspecting the web page. Well, no, it is actually that fucked up. On that page, inspect the reload button. I can't believe my fucking eyes.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "121": {
+        "id": "7bx9yu",
+        "premise": "Oftentimes debugging ..",
+        "punchline": ".. is like stumbling around a dark puzzle room trying to solve the right Rubik's cube",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "122": {
+        "id": "7br3vy",
+        "premise": "During a job interview, a hiring manager asked a young lawyer if he knew how to play the ukulele",
+        "punchline": "\"What an odd question,\" the lawyer replied. \"Clearly, my day-to-day work doesn't involve the ukulele. To prepare for a question like that, I would have to go out of my way to study the ukulele specifically for job interviews.\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "123": {
+        "id": "7buc2y",
+        "premise": "Why can no one identify the bit fiddler?",
+        "punchline": "Because, he always wears a mask!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "124": {
+        "id": "7bvf25",
+        "premise": "What, no lispers?",
+        "punchline": "It's not the most efficient, or in TRUE lisp style but....",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "125": {
+        "id": "7bqhsf",
+        "premise": "Why aren't there more valley girls in comp sci?",
+        "punchline": "Because they literally can't even",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "126": {
+        "id": "7bpmow",
+        "premise": "I once had a job that changed project managers 5 times...",
+        "punchline": "I once had a job that changed project managers 5 times, and the project is still not completed.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "127": {
+        "id": "7brhup",
+        "premise": "programmy shower thoughts",
+        "punchline": "I feel like birthdays are when you're made to review the code you wrote in the last year. only it's not code you wrote perse, it's code generated by some subsystem of yours that you don't really understand but are still fully responsible for.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "128": {
+        "id": "7boea8",
+        "premise": "Needlessly complex boolean a friend did",
+        "punchline": "Kinda fits the whole isEven() bullshit meta.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "129": {
+        "id": "7bn1y9",
+        "premise": "Should I keep hard copy prints of my code?",
+        "punchline": "I live on earth in a developed country, should I keep hard copies of my source code?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "130": {
+        "id": "7bqt8n",
+        "premise": "John Dorian sent me this job opening",
+        "punchline": "Hi ,",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "131": {
+        "id": "7boi4a",
+        "premise": "Favorite programming jokes for a shirt?",
+        "punchline": "My club wants to create a shirt and I was wondering if you guys had any suggestions on funny small programming jokes or anything to put on the shirt?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    },
+    "132": {
+        "id": "7bpfu9",
+        "premise": "Why does anyone even bother with C variants or Java?",
+        "punchline": "The best language is obviously Compute!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerHumor/"
+    }
+}

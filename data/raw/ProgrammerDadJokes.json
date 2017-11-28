@@ -1,0 +1,1406 @@
+{
+    "1": {
+        "id": "7ftu3c",
+        "premise": "What makes MIPS a good choice for statistical analysis?",
+        "punchline": "It has all those R instructions.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "2": {
+        "id": "7feo19",
+        "premise": "Why do software testers have so many children? (xpost /r/ProgrammerHumor)",
+        "punchline": "because they're trained to reproduce mistakes",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "3": {
+        "id": "7fkp0e",
+        "premise": "What's your old man's favorite algorithm to implement?",
+        "punchline": "Breast-First Search.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "4": {
+        "id": "7ffgqu",
+        "premise": "I recently painted the word, \u201cpublic,\u201d across my eyes.",
+        "punchline": "My eye doctor told me that I needed a visibility modifier.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "5": {
+        "id": "7ekimy",
+        "premise": "Why did nextInt() and nextDouble() break up?",
+        "punchline": "Because they couldn't get a long.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "6": {
+        "id": "7edkqz",
+        "premise": "Why were the roadies were up for anything?",
+        "punchline": "They were touring complete",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "7": {
+        "id": "7ds54l",
+        "premise": "girl are you italian?",
+        "punchline": "because your code looks a lot like spaghetti",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "8": {
+        "id": "7dox3g",
+        "premise": "My co-worker told me that I suck at OOP",
+        "punchline": "I can't object.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "9": {
+        "id": "7dpzlx",
+        "premise": "My friend asked me, why I was hitting my keyboard with a sledgehammer.",
+        "punchline": "I told him, that I was coding in C. And after all, it is a strongly typed language.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "10": {
+        "id": "7d48ja",
+        "premise": "My wife and I are searching for a new car",
+        "punchline": "We're using simulated annealing to look outside of our town, though, so we don't get stuck on a local Maxima.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "11": {
+        "id": "7cui7i",
+        "premise": "C# is like a corresponding musical note",
+        "punchline": "It even looks dull and no musician wants to play it.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "12": {
+        "id": "7cl8z4",
+        "premise": "If Batman had a fat sidekick, what would you call him?",
+        "punchline": "Round Robin.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "13": {
+        "id": "7ce4e6",
+        "premise": "If you hold the Unix shell up to your ear...",
+        "punchline": "Can you hear the C?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "14": {
+        "id": "7bdm25",
+        "premise": "How many npm dependencies are neccessary to change a lamp?",
+        "punchline": "Thats not a joke, thats an actual question",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "15": {
+        "id": "7b3v45",
+        "premise": "What\u2019s an objectivist\u2019s favorite function?",
+        "punchline": "rand()",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "16": {
+        "id": "7b0i3g",
+        "premise": "i made a getch() joke.",
+        "punchline": "GETCHE IT?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "17": {
+        "id": "7b3ko8",
+        "premise": "\u201cMan I think my wife may be dead\u2026\u201d",
+        "punchline": "A guy tells his friend, \u201cMan I think my wife may be dead\u2026\u201d",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "18": {
+        "id": "79sr7d",
+        "premise": "What\u2019s a ghost\u2019s favorite data type?",
+        "punchline": "A boooolean.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "19": {
+        "id": "79r3ar",
+        "premise": "So I heard nvidia are working on self-driving cars..",
+        "punchline": "..I guess their drivers kept crashing.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "20": {
+        "id": "79p4gc",
+        "premise": "Operating Systems",
+        "punchline": "Some Assembly required.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "21": {
+        "id": "79rvzo",
+        "premise": "Why are SQL database engineers considered unfaithful?",
+        "punchline": "Because of all the one-to-many relationships.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "22": {
+        "id": "79l9jr",
+        "premise": "What OO language do Communists use?",
+        "punchline": "JavaScript. There are no classes in the traditional sense, and objects can't have privately owned members.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "23": {
+        "id": "79agvi",
+        "premise": "Unhandled exceptions...",
+        "punchline": "It has been NaN days since our last divide-by-zero related incident.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "24": {
+        "id": "78rgoy",
+        "premise": "Why are all your lines the same number of characters?",
+        "punchline": "I need no justification.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "25": {
+        "id": "77zqb7",
+        "premise": "A problem of HTML5 gravity",
+        "punchline": "<big> <tt>'s? No longer supported.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "26": {
+        "id": "75b1rp",
+        "premise": "What happens to crustaceans when they stop using C?",
+        "punchline": "They become Rustaceans",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "27": {
+        "id": "75485i",
+        "premise": "Why do I like Python so much?",
+        "punchline": "I have no IDE",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "28": {
+        "id": "74tztl",
+        "premise": "Why shouldnt we provide programming lessons as rehabilitation for drug addicts?",
+        "punchline": "They would start codeine.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "29": {
+        "id": "73ib55",
+        "premise": "A man is sent to town by his wife to get bread",
+        "punchline": "She says, \"oh and while you're there, get some eggs.\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "30": {
+        "id": "73sro9",
+        "premise": "What does the hot student say to her C++ prof.?",
+        "punchline": "Your malloc is too big.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "31": {
+        "id": "732hdx",
+        "premise": "Why can't babies program in Java?",
+        "punchline": "They don't have object permanence.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "32": {
+        "id": "72z249",
+        "premise": "What's the similarity between front-end and solving a mysterious murder?",
+        "punchline": "Both need A PI",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "33": {
+        "id": "72x7ak",
+        "premise": "The firmware for my thermostat is written in assembly...",
+        "punchline": "It controls all of the heat registers.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "34": {
+        "id": "72sh67",
+        "premise": "Why is gorillas' vision useful to programmers?",
+        "punchline": "Because they have an apey eye.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "35": {
+        "id": "72eoho",
+        "premise": "He had no case...",
+        "punchline": "This guy in court was using a lot of ifs, the judge said he had no case.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "36": {
+        "id": "729qtl",
+        "premise": "Why are 'i' and 'j' a good source of information?",
+        "punchline": "They're always in the loop",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "37": {
+        "id": "70mngr",
+        "premise": "why is the java programmer blind?",
+        "punchline": "because of the eclipse",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "38": {
+        "id": "70k3yd",
+        "premise": "Why are statistics programmers evil?",
+        "punchline": "Because they are always finding new ways to getMean()",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "39": {
+        "id": "701ju9",
+        "premise": "Why did the programmer join a dating websites?",
+        "punchline": "Because He didn't want to be a leaf in his family tree",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "40": {
+        "id": "6yuy7z",
+        "premise": "I wouldn't use HLSL if I were you",
+        "punchline": "It's a pretty shady language.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "41": {
+        "id": "6yfjez",
+        "premise": "Why did a programmer learn java?",
+        "punchline": "To get to the other side.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "42": {
+        "id": "6y9z27",
+        "premise": "What's a C# programmer's favorite drink?",
+        "punchline": "ulong t;",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "43": {
+        "id": "6y9mcu",
+        "premise": "Knock knock...",
+        "punchline": "Knock knock!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "44": {
+        "id": "6yc9hn",
+        "premise": "What do you get when you cross an open source operating system and an oar-powered water craft?",
+        "punchline": "A GNU",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "45": {
+        "id": "6x0xhc",
+        "premise": "How did Caret get out of jail?",
+        "punchline": "It's an escape character.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "46": {
+        "id": "6x4egv",
+        "premise": "Programmer's pickup line",
+        "punchline": "\"Girl, all your angles are so fine, I want to make like a Quaternion and slerp you up.\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "47": {
+        "id": "6wrusm",
+        "premise": "A programmer walks into a gamestop and pulls out a gun. \"Gimme a switch\", he says...",
+        "punchline": "... \"or else.\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "48": {
+        "id": "6wfd97",
+        "premise": "You should be careful with functions that don't return a value.",
+        "punchline": "In fact, I would just a void them.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "49": {
+        "id": "6w9zlz",
+        "premise": "What did the computer say when the user compiled their code into machine language?",
+        "punchline": "Now you're speaking my language!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "50": {
+        "id": "6vne2v",
+        "premise": "What did Dr. Seuss say after failing to migrate his Surface-to-Air Missile system to AWS due to a permissions fault?",
+        "punchline": "That SAM IAM!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "51": {
+        "id": "6v5c1j",
+        "premise": "I see an eclipse everyday...",
+        "punchline": "...I use version Juno, what about you?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "52": {
+        "id": "6uvrlu",
+        "premise": "Why couldn't the student programmer get past C?",
+        "punchline": "His work didn't have any references.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "53": {
+        "id": "6u8o07",
+        "premise": "Why is C# named C#?",
+        "punchline": "Cuz you gotta C # to find your bugs... :(",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "54": {
+        "id": "6tmqm3",
+        "premise": "My app is crashing when the user has a bad cell signal.",
+        "punchline": "It's an EDGE case.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "55": {
+        "id": "6tfs6l",
+        "premise": "Why do visual basic programmers never finish a marathon?",
+        "punchline": "After the start they will have a Run-time error",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "56": {
+        "id": "6tfjpu",
+        "premise": "What is a developer's coffee?",
+        "punchline": "Java... (unoriginal...)",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "57": {
+        "id": "6szjh8",
+        "premise": "How do programmers end their life?",
+        "punchline": "They commit suicide.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "58": {
+        "id": "6s5quo",
+        "premise": "What do you call a Dell in TTY?",
+        "punchline": "A CLI's Dell \ud83d\udc34",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "59": {
+        "id": "6s0kbq",
+        "premise": "What control structures do international programmers use?",
+        "punchline": "for-in loops!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "60": {
+        "id": "6qhadm",
+        "premise": "I wrote a program that solves 9x9 matrices of numbers that can only be run by an administrator",
+        "punchline": "I call it ku",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "61": {
+        "id": "6q8ow2",
+        "premise": "What did the .NET programmer name his boat?",
+        "punchline": "Sea Sharp",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "62": {
+        "id": "6pz649",
+        "premise": "I'd tell you a joke about access modifiers..",
+        "punchline": "But it's private.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "63": {
+        "id": "6pyxya",
+        "premise": "Why don't you see Lisp programmers on the bus?",
+        "punchline": "They really like their cars.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "64": {
+        "id": "6pe59o",
+        "premise": "What do programmer dads do in sunny weather?",
+        "punchline": "Play TRY CATCH with their kids!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "65": {
+        "id": "6pfebo",
+        "premise": "Relational database schemas should be like family trees",
+        "punchline": "They should not make you sick just by looking at them.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "66": {
+        "id": "6p94dc",
+        "premise": "Considering giving literate programming in lisp a go...",
+        "punchline": "but I'm unsure if the prose would outweigh the cons.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "67": {
+        "id": "6oc833",
+        "premise": "Kernel programming is like buying from IKEA",
+        "punchline": "Some assembly required.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "68": {
+        "id": "6o9ma3",
+        "premise": "How do JavaScript devs fall asleep?",
+        "punchline": "They null out!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "69": {
+        "id": "6o3n0c",
+        "premise": "What do you say to a possessed program?",
+        "punchline": "\"The power of Christ compiles you!\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "70": {
+        "id": "6o43vs",
+        "premise": "Why is Stevie Wonder a horrible programmer?",
+        "punchline": "Because he cant C#.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "71": {
+        "id": "6npytb",
+        "premise": "Single people",
+        "punchline": "are stuck in a loop, ie for 1",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "72": {
+        "id": "6njmux",
+        "premise": "Call me a communist",
+        "punchline": "But I don't like my languages to have classes",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "73": {
+        "id": "6nb432",
+        "premise": "What is a database programmer's favorite alcoholic drink?",
+        "punchline": "Daqueries",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "74": {
+        "id": "6mwpz1",
+        "premise": "TIL, women like men who listen() ...",
+        "punchline": "... but I only can establish connections with GF_MALE, although all my ports are open.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "75": {
+        "id": "6my83n",
+        "premise": "Rolling down the street ...",
+        "punchline": "with my new C 64",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "76": {
+        "id": "6my9fi",
+        "premise": "She talks too much...",
+        "punchline": "so I asked her name and she says COBOL, she's still sitting at the bar waiting for me.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "77": {
+        "id": "6mjp95",
+        "premise": "Why did the constant break up with the variable?",
+        "punchline": "She changed",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "78": {
+        "id": "6mlrf8",
+        "premise": "Why is Amazon Web Service so slow?",
+        "punchline": "Because so is the Amazon river.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "79": {
+        "id": "6m5658",
+        "premise": "Why did the clear text go to therapy?",
+        "punchline": "He was very insecure",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "80": {
+        "id": "6lt775",
+        "premise": "Walking down the street...",
+        "punchline": "... to the cafe and I'm being berated by my colleagues for not being fully pushed up. So I'm walking there, and I just reach out and give them a bit of a shove. They look at me and start \"what are you doing you ass\".",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "81": {
+        "id": "6kztcc",
+        "premise": "How does an Angular Developer sign their name?",
+        "punchline": "In typescript",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "82": {
+        "id": "6kqn7q",
+        "premise": "Computers are like air conditioners",
+        "punchline": "they stop working properly if you open WINDOWS.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "83": {
+        "id": "6kp90s",
+        "premise": "I love the diversity in Indian Food",
+        "punchline": "No two NaNs are ever the same.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "84": {
+        "id": "6kaiyj",
+        "premise": "So I was helping my sister with some programming homework over the phone...",
+        "punchline": "...and my girlfriend was listening in on the call. When I was done on the phone my girlfriend turns to me and says I didn't understand any of that. I look at her and say, \"It's okay, we were speaking in code.\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "85": {
+        "id": "6kc4bn",
+        "premise": "Parent-Child Relationship in Git",
+        "punchline": "Step 1: Fork. Step 2: Merge Party. Step 3: Profit!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "86": {
+        "id": "6js1yn",
+        "premise": "What grade was the student searching for",
+        "punchline": "An A*",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "87": {
+        "id": "6jne64",
+        "premise": "What does Python threading and Critical Role have in common?",
+        "punchline": "\"Don't fuck me, GIL\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "88": {
+        "id": "6jgg3u",
+        "premise": "What do you call it when two computer scientists come simultaneously?",
+        "punchline": "An andgasm",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "89": {
+        "id": "6j44un",
+        "premise": "Did you hear the git branch's boyfriend proposed?",
+        "punchline": "He's a committed hunk.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "90": {
+        "id": "6iyoyi",
+        "premise": "I heard Richard Stallman was running for public office",
+        "punchline": "but that was just fake gnus.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "91": {
+        "id": "6iv6bo",
+        "premise": "How much do baby programmers eat?",
+        "punchline": "A nibble at a time.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "92": {
+        "id": "6ix84l",
+        "premise": "Why did the grocery cart IoT startup lose funding?",
+        "punchline": "They were releasing buggy software.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "93": {
+        "id": "6imrdi",
+        "premise": "Why did the memory leak start charging for advice?",
+        "punchline": "It wanted to give out pointers, but not for free()",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "94": {
+        "id": "6inny2",
+        "premise": "Dev 1: \"Managing debug messages is driving me to drink.\"",
+        "punchline": "Dev 2: \"Have you tried a logger?\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "95": {
+        "id": "6im1fw",
+        "premise": "Why did the developer get arrested?",
+        "punchline": "Because he touched the file",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "96": {
+        "id": "6ilsfe",
+        "premise": "Did you hear about the programmer stuck in the shower?",
+        "punchline": "Lather. Rinse. Repeat.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "97": {
+        "id": "6imis8",
+        "premise": "Why did the rastafarian pirate learn programming?",
+        "punchline": "They wanted to make hashish-maps to efficiently locate their caches.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "98": {
+        "id": "6il2rm",
+        "premise": "I used to freely mix if() and unless() in my Perl scripts ...",
+        "punchline": "... but it left me tied up in '!'s",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "99": {
+        "id": "6igh9i",
+        "premise": "How do you know when a c++ programmer is bad at tennis?",
+        "punchline": "...because no matter how many pointers you give them, there is always a fault",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "100": {
+        "id": "6igjql",
+        "premise": "Why did the programmer think it was Christmas at Halloween?",
+        "punchline": "Because 31 Oct = 25 Dec",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "101": {
+        "id": "6igp3f",
+        "premise": "Why did the node dev give up acting?",
+        "punchline": "The callbacks were hell.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "102": {
+        "id": "6iigqm",
+        "premise": "My daughter is always upset at me...",
+        "punchline": "She doesn't like that I squash bugs. \"Daddy, you should let them live!\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "103": {
+        "id": "6ihdz1",
+        "premise": "What's a programmer's favorite food?",
+        "punchline": "0xdeadbeef",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "104": {
+        "id": "6iedeb",
+        "premise": "How do you change a bit string's mood from negative to positive?",
+        "punchline": "Give it a compliment!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "105": {
+        "id": "6icu5x",
+        "premise": "What goes pieces of seven, pieces of seven",
+        "punchline": "A parity error",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "106": {
+        "id": "6i3xlh",
+        "premise": "What do you say to a Manager who can't get his developers to show up to work on time?",
+        "punchline": "You seem to have a dependency issue.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "107": {
+        "id": "6hzsym",
+        "premise": "Two sql developers walk into a bar & then walk straight out...",
+        "punchline": "Because there were no tables they could join",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "108": {
+        "id": "6hvyde",
+        "premise": "What\u2019s a developer\u2019s version of the game \"Duck, Duck, Goose?\"",
+        "punchline": "Redux, Redux, Reduce!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "109": {
+        "id": "6hn54v",
+        "premise": "Why did the developer bring a SCALE to the design meeting?",
+        "punchline": "Because he wanted to WEIGH in his opinions.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "110": {
+        "id": "6hfobj",
+        "premise": "[xpost from r/DMDadJokes] Beholders are somewhat wasteful on ressources.",
+        "punchline": "Despite having an integer amount of eyes, they float.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "111": {
+        "id": "6h0z98",
+        "premise": "Why did the dad developer pay for wifi on the plane?",
+        "punchline": "Because at that very moment he needed to deploy his app to the cloud.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "112": {
+        "id": "6gta6z",
+        "premise": "heard this one today-- What is Forrest Gump's computer password?",
+        "punchline": "1forrest1",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "113": {
+        "id": "6g9mtm",
+        "premise": "Why do financial analysts need highly optimized software?",
+        "punchline": "Better cache coherence.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "114": {
+        "id": "6g2m7g",
+        "premise": "Why did the Dad Developer turn down the appetizers at the restaurant?",
+        "punchline": "Because he had enough apps on his phone.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "115": {
+        "id": "6fk281",
+        "premise": "My branching in GIT is like using a guillotine",
+        "punchline": "HEAD is always in detached state.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "116": {
+        "id": "6etq3m",
+        "premise": "Why do blind programers use java",
+        "punchline": "Because they can't c",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "117": {
+        "id": "6ebrdk",
+        "premise": "git dad",
+        "punchline": "This is slightly meta, but I occasionally fat finger the git add command:",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "118": {
+        "id": "6au7hw",
+        "premise": "Why do React Developers love the photo booth?",
+        "punchline": "Because of all the props they can use!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "119": {
+        "id": "65t2r5",
+        "premise": "My dentist started using Linux",
+        "punchline": "Now he won't stop talking about how I need to use more FOSS",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "120": {
+        "id": "65siae",
+        "premise": "What's a programmer's favourite grade?",
+        "punchline": "A C+",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "121": {
+        "id": "65oclj",
+        "premise": "What do Programmers eat, when they're at the pub and get hungry?",
+        "punchline": "A Bit-burger",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "122": {
+        "id": "63s7lx",
+        "premise": "What do you call a superhero who uses git?",
+        "punchline": "DeadPull",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "123": {
+        "id": "61fzcf",
+        "premise": "Why do Communists Hate OOP?",
+        "punchline": "All of the classes...",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "124": {
+        "id": "619noh",
+        "premise": "Why couldn't the C++ programmer get laid?",
+        "punchline": "Because he was using std...",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "125": {
+        "id": "60gf9t",
+        "premise": "Why does Yoda's code always crash?",
+        "punchline": "Because there is no try.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "126": {
+        "id": "6039yj",
+        "premise": "What did the JavaScript programmer learn in India?",
+        "punchline": "Currying",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "127": {
+        "id": "5zi7v1",
+        "premise": "Why do anarchists like functional programming?",
+        "punchline": "Because it has no state.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "128": {
+        "id": "5xm295",
+        "premise": "Why do programmers use emacs?",
+        "punchline": "They have no IDEA",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "129": {
+        "id": "5xkm26",
+        "premise": "Why is a new programmer like a middle schooler?",
+        "punchline": "They always have spaghetti between their braces",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "130": {
+        "id": "5wuj8m",
+        "premise": "What language is used to program the self driving garbage truck?",
+        "punchline": "Java, because it already has garbage collection.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "131": {
+        "id": "5vsnax",
+        "premise": "My son complained that my daughter was biting him.",
+        "punchline": "Son: \"Dad! She's biting me!\" Daughter: \"I am not!\" Son: \"Yes you are, you bit me like 8 times!\" Daughter: \"I did not bite you a single time!\" Me: \"8 bits, sounds like a single byte to me. Go to your room, and next time use your words to get your point across.\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "132": {
+        "id": "5uf2xl",
+        "premise": "My girlfriend is the root of -100",
+        "punchline": "A solid 10 but also imaginary",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "133": {
+        "id": "5ueavq",
+        "premise": "I like my programming languages like I like my clothes...",
+        "punchline": "Functional",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "134": {
+        "id": "5u9zeb",
+        "premise": "My code ain't pointless",
+        "punchline": "... just because it's pointfree",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "135": {
+        "id": "5s03n4",
+        "premise": "2B || !2B",
+        "punchline": "That's the question",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "136": {
+        "id": "5rl7ww",
+        "premise": "As a programmer, sometimes I feel a void",
+        "punchline": "And I know I've reached the point of no return",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "137": {
+        "id": "5r2iej",
+        "premise": "How big is Yoda's brain?",
+        "punchline": "A yottabyte!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "138": {
+        "id": "5qsslz",
+        "premise": "Why is a keyword like Lando Calrissian?",
+        "punchline": "It's a token surrounded by white space characters",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "139": {
+        "id": "5qrj1m",
+        "premise": "Segment trees with half the memory usage?",
+        "punchline": "That's a Bit mad",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "140": {
+        "id": "5qc3tj",
+        "premise": "Why do Canadian programmers fear the number 7?",
+        "punchline": "Because 7 8 9, A",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "141": {
+        "id": "5q8w7q",
+        "premise": "Lisp has no pros...",
+        "punchline": "Only cons.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "142": {
+        "id": "5pz2jy",
+        "premise": "&nbsp; - The Final Frontier",
+        "punchline": "Eh? Ehhh???",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "143": {
+        "id": "5nij2r",
+        "premise": "A O(n log n), non-recursive sorting algorithm?",
+        "punchline": "Man that's heaps cool",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "144": {
+        "id": "5l0t6j",
+        "premise": "why did bob sieger use bash",
+        "punchline": "cause he enjoyed cat man du",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "145": {
+        "id": "5kju3u",
+        "premise": "Why does python squint his eyes",
+        "punchline": "Because he can't C#",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "146": {
+        "id": "5kj08b",
+        "premise": "To what degree do I understand theta notation you ask?",
+        "punchline": "Asymp-totally",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "147": {
+        "id": "5jpnel",
+        "premise": "I am not sure of my ability to implement a radix tree",
+        "punchline": "But I might as well trie",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "148": {
+        "id": "5hhr3g",
+        "premise": "What do you call it when a plumber bends over?",
+        "punchline": "crack overflow",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "149": {
+        "id": "5e71yu",
+        "premise": "What's the best candy to eat when working with abstract data types?",
+        "punchline": "Push Pops!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "150": {
+        "id": "5e7fp2",
+        "premise": "Nightmare boss of point-of-service clerks.",
+        "punchline": "The git checkout master",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "151": {
+        "id": "5dej00",
+        "premise": "I have been studying abstract data types lately",
+        "punchline": "I think I have this in the multi set",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "152": {
+        "id": "5cfa38",
+        "premise": "I like my women like I like my filesystems.",
+        "punchline": "FAT and 32.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "153": {
+        "id": "5b8zsa",
+        "premise": "What is a stack of computers called for short?",
+        "punchline": "COM-pile",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "154": {
+        "id": "5b4hbj",
+        "premise": "Why did the functions stop calling each other?",
+        "punchline": "Because they had constant arguments.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "155": {
+        "id": "59mqd9",
+        "premise": "Why couldn't the programmer open the jar of dried grapes?",
+        "punchline": "it kept RAISIN and error saying that his JAVA was out of date!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "156": {
+        "id": "58lacs",
+        "premise": "Why did the C++ programmer look in the toilet?",
+        "punchline": "He was trying to CPP",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "157": {
+        "id": "58941q",
+        "premise": "Just got dad-joked by a NOP instruction.",
+        "punchline": "NOP ;unintended",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "158": {
+        "id": "57xipr",
+        "premise": "I think God put Steve jobs in charge of heaven",
+        "punchline": "My grandma was uploaded to the cloud without notification",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "159": {
+        "id": "57lofn",
+        "premise": "What's the second movie about a database engineer called?",
+        "punchline": "The SQL",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "160": {
+        "id": "55tw12",
+        "premise": "How do you get rid of a ghost?",
+        "punchline": "With an XORcism.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "161": {
+        "id": "55s65w",
+        "premise": "What do UNIX users like to drink?",
+        "punchline": "Grep juice",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "162": {
+        "id": "55pvdf",
+        "premise": "I called an anonymous function in Lua",
+        "punchline": "I just wish that it would callback.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "163": {
+        "id": "55fj7x",
+        "premise": "Why did the Clojure programmer lose his house?",
+        "punchline": "Because he went through foreclosure",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "164": {
+        "id": "558as0",
+        "premise": "Why was the program running efficiently with extra resources",
+        "punchline": "It aborted it's child processes",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "165": {
+        "id": "533tqb",
+        "premise": "What do you call a batter-fried vienna sausage that gets cooked on a recurring schedule?",
+        "punchline": "A cron dog.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "166": {
+        "id": "52y8pq",
+        "premise": "The programmer's wife asked the doctors why they couldn't save him.",
+        "punchline": "The doctor said, \" We",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "167": {
+        "id": "52k190",
+        "premise": "What do you call a model longer than 350 lines?",
+        "punchline": "A size plus model.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "168": {
+        "id": "51wqd2",
+        "premise": "How did pirates collaborate before computers ?",
+        "punchline": "Pier to pier networking",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "169": {
+        "id": "51axwa",
+        "premise": "What is a FOSS enthusiast's favorite slash pairing?",
+        "punchline": "GNU/Linux",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "170": {
+        "id": "51670t",
+        "premise": "Was taking my ICT Infrastructure exam when...",
+        "punchline": "Question: Why is a mainframe faster than a PC?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "171": {
+        "id": "50tixa",
+        "premise": "Why is your mother like a website?",
+        "punchline": "They both take loads in their backend",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "172": {
+        "id": "50kbse",
+        "premise": "I'm starting a band called HTML Encoder",
+        "punchline": "Looking to buy a guitar &amp;",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "173": {
+        "id": "50kovp",
+        "premise": "What's the object-oriented way to become rich?",
+        "punchline": "Inheritance.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "174": {
+        "id": "50lqcx",
+        "premise": "I would tell you a UDP joke but you probably wouldn't get it.",
+        "punchline": "Wait, Should I have posted this to /r/NetworkingDadJokes?",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "175": {
+        "id": "50lang",
+        "premise": "Why is the byte afraid of the megabyte?",
+        "punchline": "There's a killabyte in the way.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "176": {
+        "id": "50gyuc",
+        "premise": "Why don't bachelors like Git?",
+        "punchline": "Because they are afraid to commit.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "177": {
+        "id": "50i8dr",
+        "premise": "I hate how I need 8 bytes for a fraction",
+        "punchline": "It's a double standard",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "178": {
+        "id": "50ijb4",
+        "premise": "My family wants me to see a councilor about my C programming ...",
+        "punchline": "They think I've developed too many dependencies",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "179": {
+        "id": "50da35",
+        "premise": "I applied for a software engineering position at Google (x-post from /r/programmerhumor)",
+        "punchline": "I applied for a software engineering position at Google, but I didn\u2019t pass the coding challenge in the interview. It was a misunderstanding of sorts.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "180": {
+        "id": "50bm2n",
+        "premise": "I was having a hard time understanding source control...",
+        "punchline": "but i'm starting to git it",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "181": {
+        "id": "4xe10a",
+        "premise": "\"The filesystem is corrupted!\"",
+        "punchline": "\"Inode, and I'm working on it!\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "182": {
+        "id": "4vbgt6",
+        "premise": "[\"hip\",\"hip\"]",
+        "punchline": "hip hip array!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "183": {
+        "id": "4to35o",
+        "premise": "What does a programmer use to catch fish when fishing?",
+        "punchline": "A Lua.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "184": {
+        "id": "4su0tp",
+        "premise": "What do you call a skinny ghost?",
+        "punchline": "BOOLEAN.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "185": {
+        "id": "4omegk",
+        "premise": "Life.",
+        "punchline": "It bytes.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "186": {
+        "id": "4ok0jx",
+        "premise": "What do you call a neural network of which the output is a uniform distribution?",
+        "punchline": "A neutral network.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "187": {
+        "id": "4oknge",
+        "premise": "What do you call a musician who gives others direct access to his guitar?",
+        "punchline": "Tony IOMMU",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "188": {
+        "id": "4o74pv",
+        "premise": "\"Why do pirates have parrots on their shoulders? \"",
+        "punchline": "To verify the parroty bits.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "189": {
+        "id": "4kizb7",
+        "premise": "What programming language do pirates use for statistics?",
+        "punchline": "R, matey!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "190": {
+        "id": "4k8nir",
+        "premise": "Why can't English majors write JS objects?",
+        "punchline": "They're too literal.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "191": {
+        "id": "4k7swd",
+        "premise": "My code isn't pointless",
+        "punchline": "We use scrum...",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "192": {
+        "id": "4js8ab",
+        "premise": "Parallel vs. Serial in the kitchen",
+        "punchline": "We frequently have multiple gallons of milk in the refrigerator, but usually only one is open at a time. My wife thought one of the gallons (bought from a different store than usual) tasted off, so she opened another gallon from our usual store. I've still been drinking from the suspect one.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "193": {
+        "id": "4ir243",
+        "premise": "Are your logs rolling?",
+        "punchline": "You better go catch them.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "194": {
+        "id": "4iiixx",
+        "premise": "Tandem Coding",
+        "punchline": "I have two colleagues who are a couple and ride to work every day on a tandem bike. The really cool thing? It doesn't matter which one is in front!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "195": {
+        "id": "4gx343",
+        "premise": "Why can't programmers who hate commitment process big blocks of text?",
+        "punchline": "They just want something with no Strings attached.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "196": {
+        "id": "4gsfj7",
+        "premise": "Microsoft adherents are so close-minded...",
+        "punchline": "...because of their confidence in their Outlook.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "197": {
+        "id": "4gjp0k",
+        "premise": "Why do cashiers excel at assembly?",
+        "punchline": "Because they're experts at working with registers.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "198": {
+        "id": "4fjzla",
+        "premise": "Going to try some observational comedy now... Has anyone else noticed...",
+        "punchline": "...the unix strftime meridian indicator for uppercase AM/PM is a lowercase 'p', but the unix strftime meridian indicator for lowercase am/pm is an uppercase 'P'. What's with that eh!? Mad!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "199": {
+        "id": "4cru0j",
+        "premise": "Karl Marx would really not like Java",
+        "punchline": "He was really more a classless sorta guy.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "200": {
+        "id": "47027c",
+        "premise": "From our team lead during our standup meeting",
+        "punchline": "(Context: I work as a software developer at a small company. Our team leader is a father of two kids. During our stand up meeting, our new junior dev introduced himself)",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "201": {
+        "id": "43b3ak",
+        "premise": "What is the meanest data type?",
+        "punchline": "A bullyan",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "202": {
+        "id": "42712p",
+        "premise": "What does a pirate use to store data?",
+        "punchline": "An arrrrrrrrrray!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "203": {
+        "id": "414j4a",
+        "premise": "What do JS programmers eat in India?",
+        "punchline": "NaN bread!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "204": {
+        "id": "3wzxxu",
+        "premise": "What did the accumulator say to the ALU?",
+        "punchline": "\"I'm really tired of your bool shit\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "205": {
+        "id": "3rdy71",
+        "premise": "This made my day.",
+        "punchline": "Day myDay = this.createDay();",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "206": {
+        "id": "3qztba",
+        "premise": "My boss can only count to 3.",
+        "punchline": "He's a 2-bit chump.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "207": {
+        "id": "3qqtkz",
+        "premise": "Who is the most ignored vampire?",
+        "punchline": "Drac-EULA! (x-post from /r/dadjokes)",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "208": {
+        "id": "3otuhz",
+        "premise": "That int guy is a real jerk...",
+        "punchline": "Yeah. He's a real DWORD",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "209": {
+        "id": "3nif0m",
+        "premise": "I used to be a C programmer like you..",
+        "punchline": "...until I got sick of the SIGSEGV.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "210": {
+        "id": "3mnjew",
+        "premise": "Why is computer memory called Ram?",
+        "punchline": "Because you have to \"ram\" it into the motherboard to get it to lock into place lmao!!!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "211": {
+        "id": "3lbgo5",
+        "premise": "Punched card joke",
+        "punchline": "My Systems Analysis and Design professor told an awesome joke in class today. Hopefully I can remember everything he said and do it justice...",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "212": {
+        "id": "3kymb5",
+        "premise": "Why did the code monkey die?",
+        "punchline": "He couldn't traverse the tree",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "213": {
+        "id": "3kxs2u",
+        "premise": "An enhanced version of a good old programming joke [Xpost from /r/ProgrammerHumor]",
+        "punchline": "I just came up with a variation to the good old \"Why did the programmer quit his job? Because he didn't get arrays\" joke.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "214": {
+        "id": "3kuaqp",
+        "premise": "Why did the programmers send their kids caroling on Halloween?",
+        "punchline": "Because oct 31 = dec 25",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "215": {
+        "id": "3kukis",
+        "premise": "Why did the Chicken cross the road?",
+        "punchline": "It was all part of his devious Scheme",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "216": {
+        "id": "3k2gad",
+        "premise": "Working as a programmer in a massage parlor",
+        "punchline": "A man came in asking for a private explicit friend.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "217": {
+        "id": "3jymjt",
+        "premise": "Working as a programmer in the army",
+        "punchline": "A man came into the office, looking for private gary long.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "218": {
+        "id": "3ifg62",
+        "premise": "One of the major changes in Angular 2 is no scopes",
+        "punchline": "Not sure what the status of wall hacks is though.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "219": {
+        "id": "3f44pp",
+        "premise": "What did Java say to C?",
+        "punchline": "You have no class.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "220": {
+        "id": "3d92o0",
+        "premise": "There's 10 types of people in the world",
+        "punchline": "Those who don't know this joke, those who do, and those who think they do.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "221": {
+        "id": "39w95c",
+        "premise": "I've got two bitcoin right here",
+        "punchline": "It's a quarter!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "222": {
+        "id": "39uyp8",
+        "premise": "Why are so many churches teaching VBScript?",
+        "punchline": "Their signs say \"Summer VBS\".",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "223": {
+        "id": "352fbh",
+        "premise": "How many programmers does it take to screw in a light bulb?",
+        "punchline": "Hardware. Tech supports problem.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "224": {
+        "id": "341c9m",
+        "premise": "I can count to 2097151 if I'm naked",
+        "punchline": "because its 221 - 1",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "225": {
+        "id": "337y3p",
+        "premise": "I heard a coworker say \"redundant RAID\" last week...",
+        "punchline": "I told him, \"Dude, 'redundant RAID' is redundant.\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "226": {
+        "id": "2zblul",
+        "premise": "Why do Java programmers need glasses?",
+        "punchline": "Because they don't C#!",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "227": {
+        "id": "2v4ebu",
+        "premise": "Why do Windows users stay away from the command prompt?",
+        "punchline": "Because they have terminal sickness.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "228": {
+        "id": "2uyyfz",
+        "premise": "What's the first thing a programmer says when he or she wakes up in the morning?",
+        "punchline": "\"Hello world\"",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "229": {
+        "id": "2sivds",
+        "premise": "Why are there no blind programmers?",
+        "punchline": "Because they don't C.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "230": {
+        "id": "2s415o",
+        "premise": "I want to subscribe but I kinda want to leave it at 404 readers..",
+        "punchline": "wat do",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "231": {
+        "id": "2fph21",
+        "premise": "[x-post /r/programmerhumor] Heard of that new band: 1023 MB?",
+        "punchline": "...probably not. They haven't had any gigs yet.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "232": {
+        "id": "2fcx46",
+        "premise": "Java Student Gets in Trouble (x-post from programmerhumor)",
+        "punchline": "A Java student was escorted to the principal's office on his first day of school by a school administrator. The school administrator started to describe the events that took place and he demanded disciplinary action. The Java student defends himself.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "233": {
+        "id": "2eo6ac",
+        "premise": "(DEFUN HELLO () \"HELLO REDDIT\")",
+        "punchline": "Sorry if I talk a little weird, I have a lisp.",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    },
+    "234": {
+        "id": "266ujk",
+        "premise": "DAE feel like as though the compiler is ignoring their comments?",
+        "punchline": "/* probably not going to get any karma */",
+        "subreddit": "https://www.reddit.com/r/ProgrammerDadJokes/"
+    }
+}
