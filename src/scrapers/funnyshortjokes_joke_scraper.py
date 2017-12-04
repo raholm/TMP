@@ -87,13 +87,13 @@ class FunnyShortJokesJokeScraper(scrapy.Spider):
 
 	def _get_premise(self, post):
 		try:
-			return post.xpath(".//div[@class='post-title-inner']/h3/text()").extract()[0]
+			return " ".join(post.xpath(".//div[@class='post-title-inner']/h3/text()").extract())
 		except IndexError:
 			return None
 
 	def _get_punchline(self, post):
 		try:
-			return post.xpath(".//div[@class='post-text']/p/text()").extract()[0]
+			return " ".join(post.xpath(".//div[@class='post-text']/p/text()").extract())
 		except IndexError:
 			return None
 

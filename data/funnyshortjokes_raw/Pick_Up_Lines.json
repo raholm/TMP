@@ -13,15 +13,15 @@
     },
     "3": {
         "category": "Pick Up Lines",
-        "id": "post-1659",
-        "premise": "Catch",
-        "punchline": "Boy: Can you catch??"
-    },
-    "4": {
-        "category": "Pick Up Lines",
         "id": "post-1859",
         "premise": "Teddy Bear",
         "punchline": "Hi, I\u2019ve lost my teddy bear and I was wondering if you\u2019d sleep with me instead. "
+    },
+    "4": {
+        "category": "Pick Up Lines",
+        "id": "post-1659",
+        "premise": "Catch",
+        "punchline": "Boy: Can you catch?? \nGirl: Why? \nBoy: Because I\u2019ve got a couple of balls coming your way. "
     },
     "5": {
         "category": "Pick Up Lines",
@@ -69,7 +69,7 @@
         "category": "Pick Up Lines",
         "id": "post-717",
         "premise": "Best chat up line",
-        "punchline": "Q. How much does a polar bear weigh?"
+        "punchline": "Q. How much does a polar bear weigh? A. I don\u2019t know R. Neither do I but it broke the ice"
     },
     "13": {
         "category": "Pick Up Lines",
@@ -85,51 +85,51 @@
     },
     "15": {
         "category": "Pick Up Lines",
-        "id": "post-6138",
-        "premise": "Shoes Chatup Line",
-        "punchline": "Man: Would you wear shoes if you didn\u2019t have feet?"
-    },
-    "16": {
-        "category": "Pick Up Lines",
         "id": "post-6811",
         "premise": "Shower Chat-up Line",
-        "punchline": "Man: Do you shower after you have sex?"
+        "punchline": "Man: Do you shower after you have sex? \nWoman: Yes of course. \nMan: Well maybe you should have sex more often. "
     },
-    "17": {
+    "16": {
         "category": "Pick Up Lines",
         "id": "post-529",
         "premise": "You Can Call Me",
         "punchline": "People call me Dave, but you can call me Tonight!"
     },
+    "17": {
+        "category": "Pick Up Lines",
+        "id": "post-6138",
+        "premise": "Shoes Chatup Line",
+        "punchline": "Man: Would you wear shoes if you didn\u2019t have feet? \nWoman: No of course not. \nMan: Then why do you wear a bra?"
+    },
     "18": {
         "category": "Pick Up Lines",
         "id": "post-8213",
         "premise": "Girlfrien Pick Up Line",
-        "punchline": "Hi, wanna be my girlfrien? "
+        "punchline": "Hi, wanna be my girlfrien?  I didn\u2019t put the \u2018d\u2019 because you\u2019ll get that later. "
     },
     "19": {
+        "category": "Pick Up Lines",
+        "id": "post-9775",
+        "premise": "Environment Pickup Line",
+        "punchline": "Guy: Hi do you care about the environment? \nGirl: Yes. \nGuy: Well maybe we can take showers together to save water."
+    },
+    "20": {
         "category": "Pick Up Lines",
         "id": "post-5932",
         "premise": "Fireman Chat-up Line",
         "punchline": "They call me the fireman because I turn on all the hose. "
     },
-    "20": {
-        "category": "Pick Up Lines",
-        "id": "post-9775",
-        "premise": "Environment Pickup Line",
-        "punchline": "Guy: Hi do you care about the environment?"
-    },
     "21": {
-        "category": "Pick Up Lines",
-        "id": "post-8842",
-        "premise": "Boobs Pick Up Line",
-        "punchline": "Man: Hi, I bet i can guess your age by feeling your boobs!!"
-    },
-    "22": {
         "category": "Pick Up Lines",
         "id": "post-357",
         "premise": "Library Card",
-        "punchline": "person 1: I\u2019m really lucky that I have my library card with me tonight."
+        "punchline": "person 1: I\u2019m really lucky that I have my library card with me tonight. \nperson 2: Why? \nperson 1: Because I am totally checking you out!!"
+    },
+    "22": {
+        "category": "Pick Up Lines",
+        "id": "post-8842",
+        "premise": "Boobs Pick Up Line",
+        "punchline": "Man: Hi, I bet i can guess your age by feeling your boobs!! \nWoman: Really?? Go on then. \nMan: *FEEL BOOBS FOR 30 SECONDS* My guess is that you were born yesterday."
     },
     "23": {
         "category": "Pick Up Lines",
@@ -147,7 +147,7 @@
         "category": "Pick Up Lines",
         "id": "post-8275",
         "premise": "Beautiful Pick-Up Line",
-        "punchline": "Words cannot describe how beautiful you are."
+        "punchline": "Words cannot describe how beautiful you are. \nBut numbers can\u2026 4/10. "
     },
     "26": {
         "category": "Pick Up Lines",
@@ -159,7 +159,7 @@
         "category": "Pick Up Lines",
         "id": "post-9730",
         "premise": "Shakespeare Pick-Up Line",
-        "punchline": "In order to attract women I like to use this quote from Shakespeare\u2019s Hamlet, Act III, Scene IV, line 82."
+        "punchline": "In order to attract women I like to use this quote from Shakespeare\u2019s Hamlet, Act III, Scene IV, line 82. \n\u201cHello\u201d"
     },
     "28": {
         "category": "Pick Up Lines",
@@ -169,135 +169,135 @@
     },
     "29": {
         "category": "Pick Up Lines",
-        "id": "post-6131",
-        "premise": "Hi There Chatup Line",
-        "punchline": "Man: \u201cHi there!\u201d"
+        "id": "post-9010",
+        "premise": "Archaeologist Pick Up Line",
+        "punchline": "Are you an archaeologist because I have a bone I would like you to inspect."
     },
     "30": {
         "category": "Pick Up Lines",
-        "id": "post-9010",
-        "premise": "Archaeologist Pick Up Line",
-        "punchline": "Are you an archaeologist because I have a bone I would like you to inspect."
+        "id": "post-6131",
+        "premise": "Hi There Chatup Line",
+        "punchline": "Man: \u201cHi there!\u201d \nWoman: \u201cSorry I have a boyfriend.\u201d \nMan: \u201cI said hi, not suck my dick!!\u201d"
     },
     "31": {
-        "category": "Pick Up Lines",
-        "id": "post-9010",
-        "premise": "Archaeologist Pick Up Line",
-        "punchline": "Are you an archaeologist because I have a bone I would like you to inspect."
-    },
-    "32": {
-        "category": "Pick Up Lines",
-        "id": "post-2649",
-        "premise": "Sandy",
-        "punchline": "My last girlfriend had to change her name to Sandy because she was so wet all the time. "
-    },
-    "33": {
-        "category": "Pick Up Lines",
-        "id": "post-10317",
-        "premise": "Fedex Pickup Line",
-        "punchline": "Do you work for Fedex because I could have sworn I saw you checking out my package? "
-    },
-    "34": {
         "category": "Pick Up Lines",
         "id": "post-10417",
         "premise": "Big Toe Pick Up Line",
         "punchline": "You remind me of my big toe because I\u2019m gonna bang you on every piece of furniture in my house. "
     },
+    "32": {
+        "category": "Pick Up Lines",
+        "id": "post-2103",
+        "premise": "Monday joke",
+        "punchline": "You remind me of Mondays\u2026 Nobody likes you and you make me feel tired. "
+    },
+    "33": {
+        "category": "Pick Up Lines",
+        "id": "post-2649",
+        "premise": "Sandy",
+        "punchline": "My last girlfriend had to change her name to Sandy because she was so wet all the time. "
+    },
+    "34": {
+        "category": "Pick Up Lines",
+        "id": "post-10317",
+        "premise": "Fedex Pickup Line",
+        "punchline": "Do you work for Fedex because I could have sworn I saw you checking out my package? "
+    },
     "35": {
-        "category": "Pick Up Lines",
-        "id": "post-10260",
-        "premise": "Tip Pick-up Line",
-        "punchline": "I\u2019ve got a tip for you or if you like I can put the whole thing in."
-    },
-    "36": {
-        "category": "Pick Up Lines",
-        "id": "post-2450",
-        "premise": "Pockets",
-        "punchline": "Can you empty your pockets please I think you\u2019ve stolen my heart. "
-    },
-    "37": {
-        "category": "Pick Up Lines",
-        "id": "post-6463",
-        "premise": "Termite Chat-Up Line",
-        "punchline": "Are you a termite because you look like you would really enjoy a mouth full of wood. "
-    },
-    "38": {
-        "category": "Pick Up Lines",
-        "id": "post-9076",
-        "premise": "Pilot Pick Up Line",
-        "punchline": "I\u2019m no pilot\u2026."
-    },
-    "39": {
         "category": "Pick Up Lines",
         "id": "post-8485",
         "premise": "Workout Pickup Line",
         "punchline": "Interesting fact, having sex burns 50 calories per minute. Fancy coming back to my place for a workout?"
     },
-    "40": {
+    "36": {
+        "category": "Pick Up Lines",
+        "id": "post-10260",
+        "premise": "Tip Pick-up Line",
+        "punchline": "I\u2019ve got a tip for you or if you like I can put the whole thing in."
+    },
+    "37": {
+        "category": "Pick Up Lines",
+        "id": "post-8485",
+        "premise": "Workout Pickup Line",
+        "punchline": "Interesting fact, having sex burns 50 calories per minute. Fancy coming back to my place for a workout?"
+    },
+    "38": {
         "category": "Pick Up Lines",
         "id": "post-6840",
         "premise": "Incredible Hulk Pickup Line",
-        "punchline": "What has 140 teeth and can hold back the Incredible Hulk?"
+        "punchline": "What has 140 teeth and can hold back the Incredible Hulk? \nMy zipper."
+    },
+    "39": {
+        "category": "Pick Up Lines",
+        "id": "post-9205",
+        "premise": "Your Place Pick-Up LIne",
+        "punchline": "Man: Your place or mine? \nWomen: Both, you go to yours and I\u2019ll go to mine."
+    },
+    "40": {
+        "category": "Pick Up Lines",
+        "id": "post-6463",
+        "premise": "Termite Chat-Up Line",
+        "punchline": "Are you a termite because you look like you would really enjoy a mouth full of wood. "
     },
     "41": {
+        "category": "Pick Up Lines",
+        "id": "post-9076",
+        "premise": "Pilot Pick Up Line",
+        "punchline": "I\u2019m no pilot\u2026. \nBut I\u2019ll happily enter your cockpit."
+    },
+    "42": {
         "category": "Pick Up Lines",
         "id": "post-987",
         "premise": "Ireland",
         "punchline": "Are u from Ireland because when i look at you my penis is Dublin? "
     },
-    "42": {
-        "category": "Pick Up Lines",
-        "id": "post-10454",
-        "premise": "PickUp Conversation",
-        "punchline": "Man: Hi can I have your number?"
-    },
     "43": {
-        "category": "Pick Up Lines",
-        "id": "post-9205",
-        "premise": "Your Place Pick-Up LIne",
-        "punchline": "Man: Your place or mine?"
-    },
-    "44": {
-        "category": "Pick Up Lines",
-        "id": "post-5342",
-        "premise": "Virgin Chat-Up Line",
-        "punchline": "I\u2019m a virgin for religious reasons\u2026 God made me really ugly. "
-    },
-    "45": {
-        "category": "Pick Up Lines",
-        "id": "post-5531",
-        "premise": "Bus Chat-Up Line",
-        "punchline": "This chat-up line is to be used when you\u2019re sitting on the bus and you see a woman standing because it\u2019s full. "
-    },
-    "46": {
-        "category": "Pick Up Lines",
-        "id": "post-10502",
-        "premise": "Heaven Pickup Line",
-        "punchline": "Did you fall from heaven?"
-    },
-    "47": {
         "category": "Pick Up Lines",
         "id": "post-155",
         "premise": "Chloro chat-up line",
         "punchline": "Does this rag smell like chloroform to you?"
     },
-    "48": {
+    "44": {
+        "category": "Pick Up Lines",
+        "id": "post-10454",
+        "premise": "PickUp Conversation",
+        "punchline": "Man: Hi can I have your number? \nWoman: I have a boyfriend. \nMan: I have a maths test tomorrow. \nWoman: What? \nMan: Sorry, I thought we were talking about things we\u2019re gonna cheat on."
+    },
+    "45": {
         "category": "Pick Up Lines",
         "id": "post-9115",
         "premise": "Transformer Pick-Up Line",
         "punchline": "If you were a transformer you would be called Optiumus Fine. "
     },
+    "46": {
+        "category": "Pick Up Lines",
+        "id": "post-5531",
+        "premise": "Bus Chat-Up Line",
+        "punchline": "This chat-up line is to be used when you\u2019re sitting on the bus and you see a woman standing because it\u2019s full.  Man: Hi \nWoman: Hi \nMan: I would offer you my seat but I\u2019ve got a massive boner right now. "
+    },
+    "47": {
+        "category": "Pick Up Lines",
+        "id": "post-10502",
+        "premise": "Heaven Pickup Line",
+        "punchline": "Did you fall from heaven? \n\u2026 Because you remind me of Satan."
+    },
+    "48": {
+        "category": "Pick Up Lines",
+        "id": "post-5342",
+        "premise": "Virgin Chat-Up Line",
+        "punchline": "I\u2019m a virgin for religious reasons\u2026 God made me really ugly. "
+    },
     "49": {
         "category": "Pick Up Lines",
-        "id": "post-9968",
-        "premise": "Ugly Pickup Line",
-        "punchline": "Don\u2019t think of yourself as an ugly person. Think of yourself as a beautiful monkey."
+        "id": "post-5342",
+        "premise": "Virgin Chat-Up Line",
+        "punchline": "I\u2019m a virgin for religious reasons\u2026 God made me really ugly. "
     },
     "50": {
         "category": "Pick Up Lines",
-        "id": "post-106",
-        "premise": "Roller-coaster",
-        "punchline": "My love is like a roller-coaster, it\u2019s got a weight restriction. "
+        "id": "post-10195",
+        "premise": "Baker Pickup Line",
+        "punchline": "Is your dad a baker? Because you\u2019ve got some nice buns! "
     },
     "51": {
         "category": "Pick Up Lines",
@@ -307,21 +307,21 @@
     },
     "52": {
         "category": "Pick Up Lines",
-        "id": "post-9537",
-        "premise": "Homework Pick Up Line",
-        "punchline": "Are you my homework? Cos I wanna put you on a table and do you all night.\ufeff"
-    },
-    "53": {
-        "category": "Pick Up Lines",
-        "id": "post-10195",
-        "premise": "Baker Pickup Line",
-        "punchline": "Is your dad a baker? Because you\u2019ve got some nice buns! "
-    },
-    "54": {
-        "category": "Pick Up Lines",
         "id": "post-6277",
         "premise": "Amazing Chat-Up Line",
         "punchline": "Once every few years someone amazing will come into your life\u2026 and here I am. "
+    },
+    "53": {
+        "category": "Pick Up Lines",
+        "id": "post-6284",
+        "premise": "Geek Chat-Up Line",
+        "punchline": "You turn my software into hardware."
+    },
+    "54": {
+        "category": "Pick Up Lines",
+        "id": "post-9968",
+        "premise": "Ugly Pickup Line",
+        "punchline": "Don\u2019t think of yourself as an ugly person. Think of yourself as a beautiful monkey."
     },
     "55": {
         "category": "Pick Up Lines",
@@ -331,75 +331,75 @@
     },
     "56": {
         "category": "Pick Up Lines",
-        "id": "post-9965",
-        "premise": "Face Pickup Line",
-        "punchline": "Your face would look a lot better between my legs."
-    },
-    "57": {
-        "category": "Pick Up Lines",
-        "id": "post-3220",
-        "premise": "68 Position",
-        "punchline": "Man: Do you want a 68?"
-    },
-    "58": {
-        "category": "Pick Up Lines",
         "id": "post-3946",
         "premise": "Drink Chat-Up Line",
-        "punchline": "Man: \u201cAfter seeing you tonight I don\u2019t need to drink anymore!\u201d"
+        "punchline": "Man: \u201cAfter seeing you tonight I don\u2019t need to drink anymore!\u201d \nWoman: \u201cWhy?\u201d \nMan: \u201cBecause your beauty intoxicates me!\u201d"
     },
-    "59": {
+    "57": {
         "category": "Pick Up Lines",
         "id": "post-10294",
         "premise": "Concrete Pick-Up Line",
         "punchline": "Do you mix concrete for a living? Because you\u2019re making me hard. "
     },
-    "60": {
+    "58": {
         "category": "Pick Up Lines",
         "id": "post-2465",
         "premise": "Clothes",
         "punchline": "I wish I could select all of your clothes and press Delete."
     },
+    "59": {
+        "category": "Pick Up Lines",
+        "id": "post-9965",
+        "premise": "Face Pickup Line",
+        "punchline": "Your face would look a lot better between my legs."
+    },
+    "60": {
+        "category": "Pick Up Lines",
+        "id": "post-3220",
+        "premise": "68 Position",
+        "punchline": "Man: Do you want a 68? \nWoman: What\u2019s that? \nMan: You do me and I\u2019ll owe you 1. "
+    },
     "61": {
         "category": "Pick Up Lines",
-        "id": "post-3682",
-        "premise": "Saved Girl",
-        "punchline": "Last week I saved a girl from being attacked\u2026 I changed my mind. "
+        "id": "post-3220",
+        "premise": "68 Position",
+        "punchline": "Man: Do you want a 68? \nWoman: What\u2019s that? \nMan: You do me and I\u2019ll owe you 1. "
     },
     "62": {
         "category": "Pick Up Lines",
         "id": "post-7357",
         "premise": "Scientists Pick Up Line",
-        "punchline": "Me: Do you here what scientists are saying?"
+        "punchline": "Me: Do you here what scientists are saying? \nHer: No what. \nMe: That there are only going to be 7 planets after I destroy Uranus."
     },
     "63": {
+        "category": "Pick Up Lines",
+        "id": "post-35",
+        "premise": "Raisins",
+        "punchline": "Do you have any raisins? How about a date then?"
+    },
+    "64": {
+        "category": "Pick Up Lines",
+        "id": "post-3682",
+        "premise": "Saved Girl",
+        "punchline": "Last week I saved a girl from being attacked\u2026 I changed my mind. "
+    },
+    "65": {
         "category": "Pick Up Lines",
         "id": "post-4217",
         "premise": "Animal Bed Chatup Line",
         "punchline": "I\u2019m an animal in bed. I like to be patted on the head and given food."
     },
-    "64": {
+    "66": {
         "category": "Pick Up Lines",
         "id": "post-2884",
         "premise": "Squirrel",
         "punchline": "If you was a tree and I was a Squirrel, I\u2019d put my nuts in your hole"
     },
-    "65": {
+    "67": {
         "category": "Pick Up Lines",
         "id": "post-4280",
         "premise": "So Sweet",
         "punchline": "You\u2019re so sweet I think you\u2019re giving me diabetes. "
-    },
-    "66": {
-        "category": "Pick Up Lines",
-        "id": "post-3473",
-        "premise": "Recovering Chat-Up Line",
-        "punchline": "I don\u2019t suppose i could sit here for a while (point to seat next to her)? I\u2019m just recovering from an operation at the moment. I had a penis reduction, its now only 12 inches long. "
-    },
-    "67": {
-        "category": "Pick Up Lines",
-        "id": "post-35",
-        "premise": "Raisins",
-        "punchline": "Do you have any raisins? How about a date then?"
     },
     "68": {
         "category": "Pick Up Lines",
@@ -409,57 +409,57 @@
     },
     "69": {
         "category": "Pick Up Lines",
-        "id": "post-3267",
-        "premise": "Wanna Dance",
-        "punchline": "Man: Hi wanna dance?"
-    },
-    "70": {
-        "category": "Pick Up Lines",
-        "id": "post-10561",
-        "premise": "Banana PickUp Line",
-        "punchline": "Are you a banana? Because I find you a-peeling"
-    },
-    "71": {
-        "category": "Pick Up Lines",
         "id": "post-6248",
         "premise": "Milking Chat-up Line",
         "punchline": "Have you got any farm experience because I really need milking?"
     },
-    "72": {
-        "category": "Pick Up Lines",
-        "id": "post-8331",
-        "premise": "Water Pick-up line",
-        "punchline": "Hey baby, did you know that your body is make up of 90% water and I\u2019m feeling thirsty tonight."
-    },
-    "73": {
-        "category": "Pick Up Lines",
-        "id": "post-685",
-        "premise": "Astronaught",
-        "punchline": "I\u2019m an astronaught and my next mission is to explore Uranus."
-    },
-    "74": {
-        "category": "Pick Up Lines",
-        "id": "post-2088",
-        "premise": "Tyre Manufacturer",
-        "punchline": "Do you work for a tyre manufacturer because you look like you have a lot of experience with rubber?"
-    },
-    "75": {
-        "category": "Pick Up Lines",
-        "id": "post-2857",
-        "premise": "Out Of Your League",
-        "punchline": "Just because I\u2019m out of your league doesn\u2019t mean that you should feel intimidated and pretend to ignore me."
-    },
-    "76": {
+    "70": {
         "category": "Pick Up Lines",
         "id": "post-5782",
         "premise": "Just Fart Chat-up Line",
         "punchline": "Did you just fart? Because you\u2019re blowing me away."
     },
-    "77": {
+    "71": {
+        "category": "Pick Up Lines",
+        "id": "post-3267",
+        "premise": "Wanna Dance",
+        "punchline": "Man: Hi wanna dance? \nWoman: Yeah sure! \nMan: Ok go and dance, I want to talk to your friend! "
+    },
+    "72": {
+        "category": "Pick Up Lines",
+        "id": "post-10561",
+        "premise": "Banana PickUp Line",
+        "punchline": "Are you a banana? Because I find you a-peeling"
+    },
+    "73": {
         "category": "Pick Up Lines",
         "id": "post-4167",
         "premise": "Surprise",
         "punchline": "Is it still rape if you shout \u201cSURPRISE\u201d first?"
+    },
+    "74": {
+        "category": "Pick Up Lines",
+        "id": "post-2857",
+        "premise": "Out Of Your League",
+        "punchline": "Just because I\u2019m out of your league doesn\u2019t mean that you should feel intimidated and pretend to ignore me."
+    },
+    "75": {
+        "category": "Pick Up Lines",
+        "id": "post-8331",
+        "premise": "Water Pick-up line",
+        "punchline": "Hey baby, did you know that your body is make up of 90% water and I\u2019m feeling thirsty tonight."
+    },
+    "76": {
+        "category": "Pick Up Lines",
+        "id": "post-685",
+        "premise": "Astronaught",
+        "punchline": "I\u2019m an astronaught and my next mission is to explore Uranus."
+    },
+    "77": {
+        "category": "Pick Up Lines",
+        "id": "post-2088",
+        "premise": "Tyre Manufacturer",
+        "punchline": "Do you work for a tyre manufacturer because you look like you have a lot of experience with rubber?"
     },
     "78": {
         "category": "Pick Up Lines",
@@ -469,15 +469,15 @@
     },
     "79": {
         "category": "Pick Up Lines",
-        "id": "post-3132",
-        "premise": "Perfect 10",
-        "punchline": "Wow, you and your friend are a perfect 10/10\u2026\u2026. if i combine both your scores."
+        "id": "post-10610",
+        "premise": "Change pick-up line",
+        "punchline": "There\u2019s only one thing I would change about you, your last name."
     },
     "80": {
         "category": "Pick Up Lines",
-        "id": "post-10664",
-        "premise": "Like Pickup Line",
-        "punchline": "Man: You know what I really like in a girl?"
+        "id": "post-3132",
+        "premise": "Perfect 10",
+        "punchline": "Wow, you and your friend are a perfect 10/10\u2026\u2026. if i combine both your scores."
     },
     "81": {
         "category": "Pick Up Lines",
@@ -499,117 +499,117 @@
     },
     "84": {
         "category": "Pick Up Lines",
+        "id": "post-10402",
+        "premise": "McDonalds Pick Up Line",
+        "punchline": "Is your body from McDonalds?? Because I\u2019m lovin\u2019 it."
+    },
+    "85": {
+        "category": "Pick Up Lines",
+        "id": "post-10402",
+        "premise": "McDonalds Pick Up Line",
+        "punchline": "Is your body from McDonalds?? Because I\u2019m lovin\u2019 it."
+    },
+    "86": {
+        "category": "Pick Up Lines",
         "id": "post-10533",
         "premise": "Heart Pickup Line",
         "punchline": "Hi\u2026 Don\u2019t worry\u2026 I\u2019m not staring at your boobs\u2026 I\u2019m staring at your heart. "
     },
-    "85": {
+    "87": {
         "category": "Pick Up Lines",
         "id": "post-3320",
         "premise": "Lumberjack Chat Up Line",
         "punchline": "Is your dad a lumberjack because you give me wood."
     },
-    "86": {
+    "88": {
         "category": "Pick Up Lines",
         "id": "post-6434",
         "premise": "Bucket List Chat-up Line",
         "punchline": "Wow you\u2019re so hot I\u2019m gonna put you on my bucket list of things to do."
     },
-    "87": {
-        "category": "Pick Up Lines",
-        "id": "post-10610",
-        "premise": "Change pick-up line",
-        "punchline": "There\u2019s only one thing I would change about you, your last name."
-    },
-    "88": {
-        "category": "Pick Up Lines",
-        "id": "post-1246",
-        "premise": "Life",
-        "punchline": "I think you have something missing in your life and I would love to be the person to fill your gap. "
-    },
     "89": {
         "category": "Pick Up Lines",
-        "id": "post-5649",
-        "premise": "Ladies Man Chat-Up Line",
-        "punchline": "Hey babe, I\u2019m a real ladies man. I\u2019ve been down more holes than Tiger Woods. "
+        "id": "post-4446",
+        "premise": "Wipe Your Bum Chat-Up Line",
+        "punchline": "Man: What hand do you wipe your bum with? \nWoman: Right hand. \nMan: Oh really, I use toilet paper. "
     },
     "90": {
         "category": "Pick Up Lines",
         "id": "post-10201",
         "premise": "Blow PickUp Line",
-        "punchline": "Man: I want a blow job!"
+        "punchline": "Man: I want a blow job! \nWoman: That\u2019s not very romantic! \nMan: Ok, I want a blow job next to a candle!!"
     },
     "91": {
         "category": "Pick Up Lines",
-        "id": "post-910",
-        "premise": "Small Is Cute",
-        "punchline": "Man: Do you think small things are cute?"
+        "id": "post-5649",
+        "premise": "Ladies Man Chat-Up Line",
+        "punchline": "Hey babe, I\u2019m a real ladies man. I\u2019ve been down more holes than Tiger Woods. "
     },
     "92": {
         "category": "Pick Up Lines",
-        "id": "post-752",
-        "premise": "Flora Chat up line",
-        "punchline": "Are your legs like flora ? because I would totally love to spread them."
+        "id": "post-10201",
+        "premise": "Blow PickUp Line",
+        "punchline": "Man: I want a blow job! \nWoman: That\u2019s not very romantic! \nMan: Ok, I want a blow job next to a candle!!"
     },
     "93": {
         "category": "Pick Up Lines",
-        "id": "post-4446",
-        "premise": "Wipe Your Bum Chat-Up Line",
-        "punchline": "Man: What hand do you wipe your bum with?"
+        "id": "post-8702",
+        "premise": "Toilet Paper Pick-up Line",
+        "punchline": "Hi, I wish I was toilet paper so I could touch your ass. "
     },
     "94": {
         "category": "Pick Up Lines",
-        "id": "post-3185",
-        "premise": "Perve",
-        "punchline": "You\u2019re so fit that it hurts when I perve on you. "
+        "id": "post-910",
+        "premise": "Small Is Cute",
+        "punchline": "Man: Do you think small things are cute? \nWoman: Yes \nMan: Well that\u2019s a relief because my cock and bank balance are tiny."
     },
     "95": {
         "category": "Pick Up Lines",
-        "id": "post-9786",
-        "premise": "Ferrari Pick Up Line",
-        "punchline": "Q. Whats the difference between a Ferrari and a boner?"
+        "id": "post-1246",
+        "premise": "Life",
+        "punchline": "I think you have something missing in your life and I would love to be the person to fill your gap. "
     },
     "96": {
         "category": "Pick Up Lines",
-        "id": "post-8702",
-        "premise": "Toilet Paper Pick-up Line",
-        "punchline": "Hi, I wish I was toilet paper so I could touch your ass. "
-    },
-    "97": {
-        "category": "Pick Up Lines",
         "id": "post-9786",
         "premise": "Ferrari Pick Up Line",
-        "punchline": "Q. Whats the difference between a Ferrari and a boner?"
+        "punchline": "Q. Whats the difference between a Ferrari and a boner? A. I don\u2019t have a Ferrari."
     },
-    "98": {
-        "category": "Pick Up Lines",
-        "id": "post-8702",
-        "premise": "Toilet Paper Pick-up Line",
-        "punchline": "Hi, I wish I was toilet paper so I could touch your ass. "
-    },
-    "99": {
+    "97": {
         "category": "Pick Up Lines",
         "id": "post-859",
         "premise": "Bank worker",
         "punchline": "Do you work for a bank because you\u2019re not giving me very much interest?"
     },
-    "100": {
+    "98": {
+        "category": "Pick Up Lines",
+        "id": "post-6405",
+        "premise": "Homeless Horse",
+        "punchline": "Are you a homeless horse.. Because you look unstable."
+    },
+    "99": {
         "category": "Pick Up Lines",
         "id": "post-5941",
         "premise": "Your Dad Chatup Line",
         "punchline": "Is your dad retarded because I think you\u2019re really special?"
     },
-    "101": {
+    "100": {
         "category": "Pick Up Lines",
         "id": "post-2979",
         "premise": "Baby Seal",
         "punchline": "If I was an injured baby seal needing shelter and you were a cave would you let me go inside you?"
     },
+    "101": {
+        "category": "Pick Up Lines",
+        "id": "post-752",
+        "premise": "Flora Chat up line",
+        "punchline": "Are your legs like flora ? because I would totally love to spread them."
+    },
     "102": {
         "category": "Pick Up Lines",
-        "id": "post-5592",
-        "premise": "Priest Chatup Line",
-        "punchline": "I have a really small wiener. At least that\u2019s what the priest told me. "
+        "id": "post-9786",
+        "premise": "Ferrari Pick Up Line",
+        "punchline": "Q. Whats the difference between a Ferrari and a boner? A. I don\u2019t have a Ferrari."
     },
     "103": {
         "category": "Pick Up Lines",
@@ -625,123 +625,123 @@
     },
     "105": {
         "category": "Pick Up Lines",
+        "id": "post-10789",
+        "premise": "Glasses Pick Up Line",
+        "punchline": "Man: Hi, you look great without glasses \nWoman: I don\u2019t wear glasses \nMan: I do *Put glasses back on* "
+    },
+    "106": {
+        "category": "Pick Up Lines",
         "id": "post-9601",
         "premise": "Mold Pickup Line",
         "punchline": "Are you mold?? Because you\u2019re growing on me."
     },
-    "106": {
+    "107": {
         "category": "Pick Up Lines",
         "id": "post-10679",
         "premise": "Russian Pickup Line",
         "punchline": "Are you Russian?? Because you\u2019re Rushing my heart-rate. "
     },
-    "107": {
+    "108": {
         "category": "Pick Up Lines",
         "id": "post-686",
         "premise": "Watermelon Seed",
         "punchline": "If I was a watermelon would you spit or swallow my seed?"
     },
-    "108": {
-        "category": "Pick Up Lines",
-        "id": "post-4144",
-        "premise": "Homo Chat Up Line",
-        "punchline": "Walk up to someone at a bar and say. \u201cCan I push in your stool?\u201d"
-    },
     "109": {
         "category": "Pick Up Lines",
-        "id": "post-10249",
-        "premise": "Carrot Pickup Line",
-        "punchline": "Hi, sometimes I dye my pubes green and paint my wiener orange so it looks like a carrot. "
+        "id": "post-9601",
+        "premise": "Mold Pickup Line",
+        "punchline": "Are you mold?? Because you\u2019re growing on me."
     },
     "110": {
         "category": "Pick Up Lines",
-        "id": "post-4144",
-        "premise": "Homo Chat Up Line",
-        "punchline": "Walk up to someone at a bar and say. \u201cCan I push in your stool?\u201d"
+        "id": "post-10679",
+        "premise": "Russian Pickup Line",
+        "punchline": "Are you Russian?? Because you\u2019re Rushing my heart-rate. "
     },
     "111": {
         "category": "Pick Up Lines",
-        "id": "post-2177",
-        "premise": "Hair",
-        "punchline": "I like your hair, let\u2019s go f*ck."
+        "id": "post-686",
+        "premise": "Watermelon Seed",
+        "punchline": "If I was a watermelon would you spit or swallow my seed?"
     },
     "112": {
-        "category": "Pick Up Lines",
-        "id": "post-8134",
-        "premise": "Nipples Pick-up Line",
-        "punchline": "Hi, can you please tell your nipples to stop staring at my eyes ."
-    },
-    "113": {
-        "category": "Pick Up Lines",
-        "id": "post-3384",
-        "premise": "Pick a Number",
-        "punchline": "Pick a number from 1-10\u2026.. You loose now take off your clothes!"
-    },
-    "114": {
-        "category": "Pick Up Lines",
-        "id": "post-4336",
-        "premise": "Strawberries",
-        "punchline": "Do you like strawberries? I\u2019ve just spent \u00a33 at the flavored condom machine. "
-    },
-    "115": {
-        "category": "Pick Up Lines",
-        "id": "post-2177",
-        "premise": "Hair",
-        "punchline": "I like your hair, let\u2019s go f*ck."
-    },
-    "116": {
-        "category": "Pick Up Lines",
-        "id": "post-10129",
-        "premise": "Fish Pick-Up Line",
-        "punchline": "I like the smell of fish. *Silently stare at women for 20 seconds after saying this*"
-    },
-    "117": {
-        "category": "Pick Up Lines",
-        "id": "post-10789",
-        "premise": "Glasses Pick Up Line",
-        "punchline": "Man: Hi, you look great without glasses"
-    },
-    "118": {
-        "category": "Pick Up Lines",
-        "id": "post-2285",
-        "premise": "Toothpaste",
-        "punchline": "My advice to you is strong deodorant and smokers toothpaste."
-    },
-    "119": {
-        "category": "Pick Up Lines",
-        "id": "post-10466",
-        "premise": "Story Pickup Line",
-        "punchline": "Once upon a time there was a c*nt."
-    },
-    "120": {
-        "category": "Pick Up Lines",
-        "id": "post-3043",
-        "premise": "Get Undressed",
-        "punchline": "Hi my name is Dave, can we just skip to the part where you get undressed?"
-    },
-    "121": {
         "category": "Pick Up Lines",
         "id": "post-10393",
         "premise": "Blink Pick-Up Line",
         "punchline": "Hi I\u2019m blind\u2026 can I read your t-shirt in braille? "
     },
-    "122": {
+    "113": {
+        "category": "Pick Up Lines",
+        "id": "post-2177",
+        "premise": "Hair",
+        "punchline": "I like your hair, let\u2019s go f*ck."
+    },
+    "114": {
+        "category": "Pick Up Lines",
+        "id": "post-8134",
+        "premise": "Nipples Pick-up Line",
+        "punchline": "Hi, can you please tell your nipples to stop staring at my eyes ."
+    },
+    "115": {
+        "category": "Pick Up Lines",
+        "id": "post-8134",
+        "premise": "Nipples Pick-up Line",
+        "punchline": "Hi, can you please tell your nipples to stop staring at my eyes ."
+    },
+    "116": {
+        "category": "Pick Up Lines",
+        "id": "post-2672",
+        "premise": "Shoelace",
+        "punchline": "Hi, I think your shoelace is untied! (quickly position yourself behind)"
+    },
+    "117": {
+        "category": "Pick Up Lines",
+        "id": "post-10249",
+        "premise": "Carrot Pickup Line",
+        "punchline": "Hi, sometimes I dye my pubes green and paint my wiener orange so it looks like a carrot. "
+    },
+    "118": {
+        "category": "Pick Up Lines",
+        "id": "post-3043",
+        "premise": "Get Undressed",
+        "punchline": "Hi my name is Dave, can we just skip to the part where you get undressed?"
+    },
+    "119": {
+        "category": "Pick Up Lines",
+        "id": "post-81",
+        "premise": "Pancakes",
+        "punchline": "Do you like blackberries or strawberries because I want to know what type of pancakes to order you in the morning. "
+    },
+    "120": {
         "category": "Pick Up Lines",
         "id": "post-10129",
         "premise": "Fish Pick-Up Line",
         "punchline": "I like the smell of fish. *Silently stare at women for 20 seconds after saying this*"
     },
+    "121": {
+        "category": "Pick Up Lines",
+        "id": "post-2285",
+        "premise": "Toothpaste",
+        "punchline": "My advice to you is strong deodorant and smokers toothpaste."
+    },
+    "122": {
+        "category": "Pick Up Lines",
+        "id": "post-10466",
+        "premise": "Story Pickup Line",
+        "punchline": "Once upon a time there was a c*nt. \nIt was you. \nThe end."
+    },
     "123": {
         "category": "Pick Up Lines",
-        "id": "post-3207",
-        "premise": "So Ugly",
-        "punchline": "You\u2019re so ugly you\u2019re mother had morning sickness after you were born. "
+        "id": "post-10828",
+        "premise": "Sleeping Pickup Line",
+        "punchline": "Man: Hi, do you like sleeping. \nWoman: Yeah \nMan: Cool.. maybe we should do it together sometime. "
     },
     "124": {
         "category": "Pick Up Lines",
-        "id": "post-81",
-        "premise": "Pancakes",
-        "punchline": "Do you like blackberries or strawberries because I want to know what type of pancakes to order you in the morning. "
+        "id": "post-2790",
+        "premise": "Toast",
+        "punchline": "Just wanted to know\u2026. Do you prefer white or brown bread for your toast in the morning?"
     },
     "125": {
         "category": "Pick Up Lines",
@@ -751,213 +751,213 @@
     },
     "126": {
         "category": "Pick Up Lines",
-        "id": "post-9113",
-        "premise": "Phone Pick-Up Line",
-        "punchline": "Have you got a phone in your pocket because I think your ass is calling me."
+        "id": "post-3207",
+        "premise": "So Ugly",
+        "punchline": "You\u2019re so ugly you\u2019re mother had morning sickness after you were born. "
     },
     "127": {
         "category": "Pick Up Lines",
-        "id": "post-9838",
-        "premise": "Banana PickUp Line",
-        "punchline": "Guy: Would you suck dick for a ripe banana?"
+        "id": "post-2245",
+        "premise": "Nice Milksacks",
+        "punchline": "Nice Milksacks\u2026 You\u2019re plastic surgeon should be given an award. "
     },
     "128": {
+        "category": "Pick Up Lines",
+        "id": "post-9838",
+        "premise": "Banana PickUp Line",
+        "punchline": "Guy: Would you suck dick for a ripe banana? \nGirl: No \nGuy: What would you suck dick for? \nGirl: Nothing \nGuy: So, you suck dick for nothing?"
+    },
+    "129": {
         "category": "Pick Up Lines",
         "id": "post-3239",
         "premise": "Really Attractive",
         "punchline": "Wow you\u2019re really attractive, I bet if you went missing the police would spend ages looking for you."
     },
-    "129": {
+    "130": {
         "category": "Pick Up Lines",
         "id": "post-3339",
         "premise": "Prison",
-        "punchline": "Guy: When does your dad get out of prison?"
-    },
-    "130": {
-        "category": "Pick Up Lines",
-        "id": "post-2790",
-        "premise": "Toast",
-        "punchline": "Just wanted to know\u2026. Do you prefer white or brown bread for your toast in the morning?"
+        "punchline": "Guy: When does your dad get out of prison? \nGirl: He\u2019s not in prison. \nGuy: Well if I was your dad I\u2019d be in prison. "
     },
     "131": {
-        "category": "Pick Up Lines",
-        "id": "post-5426",
-        "premise": "Bald Man Chat-Up Line",
-        "punchline": "Bald Man: Hi babe, would you like to go for a drink sometime?"
-    },
-    "132": {
-        "category": "Pick Up Lines",
-        "id": "post-5683",
-        "premise": "So Big Chatup Line",
-        "punchline": "I\u2019m so big instead of being circumcised I was actually circumnavigated. "
-    },
-    "133": {
         "category": "Pick Up Lines",
         "id": "post-2689",
         "premise": "Necklace",
         "punchline": "Would you like a free pearl necklace?"
     },
-    "134": {
-        "category": "Pick Up Lines",
-        "id": "post-10708",
-        "premise": "Halloween Pickup Line",
-        "punchline": "You look so good, you\u2019re making my man-bits rise from the dead. "
-    },
-    "135": {
+    "132": {
         "category": "Pick Up Lines",
         "id": "post-6348",
         "premise": "Chicken Farmer Chat-Up Line",
         "punchline": "Hi I\u2019m a chicken farmer. Fancy coming over to my farm to see my cock?"
     },
-    "136": {
+    "133": {
         "category": "Pick Up Lines",
         "id": "post-6351",
         "premise": "Great Ass Chatup line",
         "punchline": "You\u2019ve got a great ass and I\u2019ve got 2 hands. We were made for each other."
     },
-    "137": {
+    "134": {
         "category": "Pick Up Lines",
-        "id": "post-10516",
-        "premise": "Dysfunction Pickup Line",
-        "punchline": "Are you a doctor? cause you just cured my erektile dysfunction. "
+        "id": "post-5426",
+        "premise": "Bald Man Chat-Up Line",
+        "punchline": "Bald Man: Hi babe, would you like to go for a drink sometime? \nWoman: No.. you\u2019re an ugly bald c*nt!!! \nBald Man: I\u2019m not bald, I\u2019m just taller than my hair. "
     },
-    "138": {
-        "category": "Pick Up Lines",
-        "id": "post-10587",
-        "premise": "Bread Pick-up Line",
-        "punchline": "Hi cutie, you\u2019re so hot I bet when you eat bread toast comes out of your ass."
-    },
-    "139": {
-        "category": "Pick Up Lines",
-        "id": "post-7355",
-        "premise": "T-Shirt Pickup Line",
-        "punchline": "Hi I\u2019m blind, can I read your t-shirt in braille? "
-    },
-    "140": {
-        "category": "Pick Up Lines",
-        "id": "post-4210",
-        "premise": "Good Looking",
-        "punchline": "Wow, you\u2019re so good looking I wish I\u2019d taken a shower this morning. "
-    },
-    "141": {
-        "category": "Pick Up Lines",
-        "id": "post-6584",
-        "premise": "Number Chat-up Line",
-        "punchline": "Me: Can I have your number?"
-    },
-    "142": {
+    "135": {
         "category": "Pick Up Lines",
         "id": "post-6685",
         "premise": "Alzheimers Chat up Line",
         "punchline": "Hi how\u2019s it going? I\u2019ve got Alzheimer\u2019s\u2026 Are you my girlfriend? "
     },
-    "143": {
+    "136": {
+        "category": "Pick Up Lines",
+        "id": "post-5683",
+        "premise": "So Big Chatup Line",
+        "punchline": "I\u2019m so big instead of being circumcised I was actually circumnavigated. "
+    },
+    "137": {
+        "category": "Pick Up Lines",
+        "id": "post-10708",
+        "premise": "Halloween Pickup Line",
+        "punchline": "You look so good, you\u2019re making my man-bits rise from the dead. "
+    },
+    "138": {
         "category": "Pick Up Lines",
         "id": "post-7902",
         "premise": "Clothes Pick-Up Line",
         "punchline": "Hi I need your help. I\u2019m really allergic to your clothes, please can you take them off. "
     },
+    "139": {
+        "category": "Pick Up Lines",
+        "id": "post-10708",
+        "premise": "Halloween Pickup Line",
+        "punchline": "You look so good, you\u2019re making my man-bits rise from the dead. "
+    },
+    "140": {
+        "category": "Pick Up Lines",
+        "id": "post-7902",
+        "premise": "Clothes Pick-Up Line",
+        "punchline": "Hi I need your help. I\u2019m really allergic to your clothes, please can you take them off. "
+    },
+    "141": {
+        "category": "Pick Up Lines",
+        "id": "post-10516",
+        "premise": "Dysfunction Pickup Line",
+        "punchline": "Are you a doctor? cause you just cured my erektile dysfunction. "
+    },
+    "142": {
+        "category": "Pick Up Lines",
+        "id": "post-7355",
+        "premise": "T-Shirt Pickup Line",
+        "punchline": "Hi I\u2019m blind, can I read your t-shirt in braille? "
+    },
+    "143": {
+        "category": "Pick Up Lines",
+        "id": "post-4210",
+        "premise": "Good Looking",
+        "punchline": "Wow, you\u2019re so good looking I wish I\u2019d taken a shower this morning. "
+    },
     "144": {
         "category": "Pick Up Lines",
-        "id": "post-9603",
-        "premise": "Laura",
-        "punchline": "F*ck me if I\u2019m wrong but is your name Laura?"
+        "id": "post-10135",
+        "premise": "Orphanage pick up line",
+        "punchline": "Are you an orphanage? Cause I wanna give you kids."
     },
     "145": {
-        "category": "Pick Up Lines",
-        "id": "post-10367",
-        "premise": "Doctor Pickup Line",
-        "punchline": "Are you a doctor?? cause you just cured my erectile dysfunction. "
-    },
-    "146": {
         "category": "Pick Up Lines",
         "id": "post-9857",
         "premise": "Chinese Pickup Line",
         "punchline": "Hi I\u2019m Chinese. Once you go yellow you\u2019ll never want another fellow."
     },
-    "147": {
+    "146": {
         "category": "Pick Up Lines",
         "id": "post-360",
         "premise": "Think I\u2019m Cute Funny Joke",
         "punchline": "Hi, me and my friend were just talking and he wondered if you think I\u2019m cute."
     },
-    "148": {
+    "147": {
         "category": "Pick Up Lines",
         "id": "post-8426",
         "premise": "Hand Pick Up Line",
         "punchline": "Wow your hand looks really heavy, let me hold it for you. "
     },
-    "149": {
+    "148": {
         "category": "Pick Up Lines",
         "id": "post-9110",
         "premise": "Pokemon Pick Up Line",
         "punchline": "Are you a Pokemon because i want to hit you with my Pokeballs? "
     },
+    "149": {
+        "category": "Pick Up Lines",
+        "id": "post-6699",
+        "premise": "Irish Chatup Line",
+        "punchline": "Hi, is your dad Irish because my c*ck is Dublin."
+    },
     "150": {
         "category": "Pick Up Lines",
-        "id": "post-6699",
-        "premise": "Irish Chatup Line",
-        "punchline": "Hi, is your dad Irish because my c*ck is Dublin."
+        "id": "post-9603",
+        "premise": "Laura",
+        "punchline": "F*ck me if I\u2019m wrong but is your name Laura?"
     },
     "151": {
-        "category": "Pick Up Lines",
-        "id": "post-6699",
-        "premise": "Irish Chatup Line",
-        "punchline": "Hi, is your dad Irish because my c*ck is Dublin."
-    },
-    "152": {
-        "category": "Pick Up Lines",
-        "id": "post-977",
-        "premise": "End Of World",
-        "punchline": "Hi it\u2019s the end of the world tomorrow, would you like to have sex?"
-    },
-    "153": {
-        "category": "Pick Up Lines",
-        "id": "post-6007",
-        "premise": "Seat Chatup line",
-        "punchline": "Man: Is this seat taken?"
-    },
-    "154": {
         "category": "Pick Up Lines",
         "id": "post-8933",
         "premise": "Heart Pickup Line",
         "punchline": "Hi, i\u2019m no organ donor but I\u2019d happily give you my heart."
     },
-    "155": {
+    "152": {
         "category": "Pick Up Lines",
-        "id": "post-10635",
-        "premise": "Sunburn Pickup Line",
-        "punchline": "Do you have sunburn or are you always this hot??"
+        "id": "post-10367",
+        "premise": "Doctor Pickup Line",
+        "punchline": "Are you a doctor?? cause you just cured my erectile dysfunction. "
     },
-    "156": {
+    "153": {
         "category": "Pick Up Lines",
         "id": "post-6618",
         "premise": "First Sight Chat-Up Line",
         "punchline": "Do you believe in love at first sight, or do I need to take the knife out my pocket?"
     },
-    "157": {
+    "154": {
+        "category": "Pick Up Lines",
+        "id": "post-7199",
+        "premise": "Suicide Chat up Line",
+        "punchline": "Hi I don\u2019t suppose you could help me. I\u2019m trying to commit suicide by having too much sex."
+    },
+    "155": {
+        "category": "Pick Up Lines",
+        "id": "post-9776",
+        "premise": "Allah PickUp Line",
+        "punchline": "Go up to a girl, hug her then say  \u201cWE\u2019LL BE WITH ALLAH SOON\u2026\u2026.ALLAHU AKBAR!\u201d"
+    },
+    "156": {
         "category": "Pick Up Lines",
         "id": "post-977",
         "premise": "End Of World",
         "punchline": "Hi it\u2019s the end of the world tomorrow, would you like to have sex?"
     },
-    "158": {
+    "157": {
         "category": "Pick Up Lines",
         "id": "post-6007",
         "premise": "Seat Chatup line",
-        "punchline": "Man: Is this seat taken?"
+        "punchline": "Man: Is this seat taken? \nWoman: Yeah, my boyfriend is sitting there. \nMan: Really? Well he must be really small then. "
+    },
+    "158": {
+        "category": "Pick Up Lines",
+        "id": "post-10635",
+        "premise": "Sunburn Pickup Line",
+        "punchline": "Do you have sunburn or are you always this hot??"
     },
     "159": {
-        "category": "Pick Up Lines",
-        "id": "post-10345",
-        "premise": "Farmer Pick-Up Line",
-        "punchline": "Are you a farmer? Because you\u2019ve got some big, round, beautiful melons! "
-    },
-    "160": {
         "category": "Pick Up Lines",
         "id": "post-7274",
         "premise": "Fred Flintstone Chat-Up Line",
         "punchline": "Hi babe, I\u2019m no Fred Flintstone, but I can make your Bedrock!"
+    },
+    "160": {
+        "category": "Pick Up Lines",
+        "id": "post-9363",
+        "premise": "FedeX Pick-Up Line",
+        "punchline": "Hi my name is Dave but you can call me FedeX because I\u2019ve got a big package with your name on it."
     },
     "161": {
         "category": "Pick Up Lines",
@@ -967,93 +967,93 @@
     },
     "162": {
         "category": "Pick Up Lines",
-        "id": "post-7141",
-        "premise": "Best Before Chat up Line",
-        "punchline": "Hi babe fancy coming over to my place? I\u2019ve got a load of condoms that are approaching their \u2018best before\u2019 date and I need to use them up."
+        "id": "post-5177",
+        "premise": "Political party",
+        "punchline": "What political party do you support because in 9 months time you\u2019ll be in labour"
     },
     "163": {
+        "category": "Pick Up Lines",
+        "id": "post-10345",
+        "premise": "Farmer Pick-Up Line",
+        "punchline": "Are you a farmer? Because you\u2019ve got some big, round, beautiful melons! "
+    },
+    "164": {
         "category": "Pick Up Lines",
         "id": "post-9363",
         "premise": "FedeX Pick-Up Line",
         "punchline": "Hi my name is Dave but you can call me FedeX because I\u2019ve got a big package with your name on it."
     },
-    "164": {
-        "category": "Pick Up Lines",
-        "id": "post-5177",
-        "premise": "Political party",
-        "punchline": "What political party do you support because in 9 months time you\u2019ll be in labour"
-    },
     "165": {
         "category": "Pick Up Lines",
-        "id": "post-2146",
-        "premise": "Baby Chat Up Line",
-        "punchline": "Waah Waah (simulate crying), can I suck on your breasts? (It works for babies). "
+        "id": "post-10498",
+        "premise": "Game Of Thrones Pickup Line",
+        "punchline": "Is your name Winter?\u2026 Because I think you\u2019re gonna be coming later. "
     },
     "166": {
-        "category": "Pick Up Lines",
-        "id": "post-9324",
-        "premise": "Overheard Pickup Line",
-        "punchline": "Hi, I overheard you talking with your friend and I\u2019d just like to say that you\u2019re really boring the shit out of me. Every word you speak is like a pillow over my face. "
-    },
-    "167": {
-        "category": "Pick Up Lines",
-        "id": "post-7757",
-        "premise": "Drink Chat-Up Line",
-        "punchline": "You look like I need another drink. "
-    },
-    "168": {
         "category": "Pick Up Lines",
         "id": "post-5857",
         "premise": "Twitter Chatup Line",
         "punchline": "Hi, do you want to follow me on twitter? My address is @millionairewithamassivecock. "
     },
+    "167": {
+        "category": "Pick Up Lines",
+        "id": "post-9324",
+        "premise": "Overheard Pickup Line",
+        "punchline": "Hi, I overheard you talking with your friend and I\u2019d just like to say that you\u2019re really boring the shit out of me. Every word you speak is like a pillow over my face. "
+    },
+    "168": {
+        "category": "Pick Up Lines",
+        "id": "post-7757",
+        "premise": "Drink Chat-Up Line",
+        "punchline": "You look like I need another drink. "
+    },
     "169": {
-        "category": "Pick Up Lines",
-        "id": "post-10149",
-        "premise": "Religious Pickup Line",
-        "punchline": "Are you religious? Because you\u2019re the answer to all my prayers."
-    },
-    "170": {
-        "category": "Pick Up Lines",
-        "id": "post-7246",
-        "premise": "Diarrhoea Chat Up Line",
-        "punchline": "My love for you is like diarrhoea, I just can\u2019t hold it in. "
-    },
-    "171": {
-        "category": "Pick Up Lines",
-        "id": "post-9472",
-        "premise": "Lips Pick Up Line",
-        "punchline": "Man: How big are your lips?"
-    },
-    "172": {
-        "category": "Pick Up Lines",
-        "id": "post-10026",
-        "premise": "Gillette Pickup Line",
-        "punchline": "Is your name Gillette? Because you\u2019re the best a man can get. "
-    },
-    "173": {
-        "category": "Pick Up Lines",
-        "id": "post-7358",
-        "premise": "Heaven Pick Up Line",
-        "punchline": "Did it hurt when you fell from Heaven?\u2026 Cause you look like Satan!"
-    },
-    "174": {
         "category": "Pick Up Lines",
         "id": "post-7485",
         "premise": "Drink Pick-Up Line",
         "punchline": "Can I buy you a drink or do you just want the money?"
     },
-    "175": {
+    "170": {
         "category": "Pick Up Lines",
-        "id": "post-5585",
-        "premise": "Ass Chatup Line",
-        "punchline": "Is it normal for your ass to bleed?\ufeff"
+        "id": "post-10149",
+        "premise": "Religious Pickup Line",
+        "punchline": "Are you religious? Because you\u2019re the answer to all my prayers."
     },
-    "176": {
+    "171": {
+        "category": "Pick Up Lines",
+        "id": "post-7246",
+        "premise": "Diarrhoea Chat Up Line",
+        "punchline": "My love for you is like diarrhoea, I just can\u2019t hold it in. "
+    },
+    "172": {
+        "category": "Pick Up Lines",
+        "id": "post-9472",
+        "premise": "Lips Pick Up Line",
+        "punchline": "Man: How big are your lips? \nWoman: *Gives some sort of response* \nMan: No, I mean your other lips."
+    },
+    "173": {
+        "category": "Pick Up Lines",
+        "id": "post-10026",
+        "premise": "Gillette Pickup Line",
+        "punchline": "Is your name Gillette? Because you\u2019re the best a man can get. "
+    },
+    "174": {
+        "category": "Pick Up Lines",
+        "id": "post-7358",
+        "premise": "Heaven Pick Up Line",
+        "punchline": "Did it hurt when you fell from Heaven?\u2026 Cause you look like Satan!"
+    },
+    "175": {
         "category": "Pick Up Lines",
         "id": "post-7627",
         "premise": "Christmas Chatup Line",
         "punchline": "I\u2019ve got something special in my sack for you. "
+    },
+    "176": {
+        "category": "Pick Up Lines",
+        "id": "post-5585",
+        "premise": "Ass Chatup Line",
+        "punchline": "Is it normal for your ass to bleed?\ufeff"
     },
     "177": {
         "category": "Pick Up Lines",
@@ -1105,27 +1105,27 @@
     },
     "185": {
         "category": "Pick Up Lines",
-        "id": "post-4422",
-        "premise": "Breastfeed Chat-Up Line",
-        "punchline": "Wow I bet you could breastfeed a whole nursery of babies. "
-    },
-    "186": {
-        "category": "Pick Up Lines",
-        "id": "post-8528",
-        "premise": "Hurt My Back Pick Up Line",
-        "punchline": "(Walk over with a hunched back) I hurt my back trying to suck my penis. "
-    },
-    "187": {
-        "category": "Pick Up Lines",
         "id": "post-9508",
         "premise": "Christmas Tree Pickup Line",
         "punchline": "Hi, can you come to my house tonight and help put my Christmas Tree up? I want it in my bedroom."
     },
-    "188": {
+    "186": {
+        "category": "Pick Up Lines",
+        "id": "post-4422",
+        "premise": "Breastfeed Chat-Up Line",
+        "punchline": "Wow I bet you could breastfeed a whole nursery of babies. "
+    },
+    "187": {
         "category": "Pick Up Lines",
         "id": "post-7741",
         "premise": "Jay Chat-up Line",
         "punchline": "Hi my name is Jay but people call me J for short. "
+    },
+    "188": {
+        "category": "Pick Up Lines",
+        "id": "post-8528",
+        "premise": "Hurt My Back Pick Up Line",
+        "punchline": "(Walk over with a hunched back) I hurt my back trying to suck my penis. "
     },
     "189": {
         "category": "Pick Up Lines",
@@ -1135,27 +1135,27 @@
     },
     "190": {
         "category": "Pick Up Lines",
+        "id": "post-7968",
+        "premise": "Black Pick-Up Line",
+        "punchline": "Man: Is your dad black? \nGirl: No. Why do you ask? \nMan: Because you\u2019ve stolen my heart. "
+    },
+    "191": {
+        "category": "Pick Up Lines",
         "id": "post-7151",
         "premise": "Shirt Chatup Line",
         "punchline": "Feel my shirt, it\u2019s made of boyfriend material\u2026"
     },
-    "191": {
+    "192": {
         "category": "Pick Up Lines",
         "id": "post-9430",
         "premise": "Jacked Pick Up Line",
         "punchline": "Hi, I haven\u2019t jacked off in over 5 years. I just don\u2019t need to because I\u2019m always surrounded by hot women. Tonight is your lucky night, you have been selected!"
     },
-    "192": {
-        "category": "Pick Up Lines",
-        "id": "post-5220",
-        "premise": "Priest Told Me Chatup Line",
-        "punchline": "I have a really small peenis, at least that\u2019s what the priest told me. "
-    },
     "193": {
         "category": "Pick Up Lines",
         "id": "post-7968",
         "premise": "Black Pick-Up Line",
-        "punchline": "Man: Is your dad black?"
+        "punchline": "Man: Is your dad black? \nGirl: No. Why do you ask? \nMan: Because you\u2019ve stolen my heart. "
     },
     "194": {
         "category": "Pick Up Lines",
@@ -1167,7 +1167,7 @@
         "category": "Pick Up Lines",
         "id": "post-8822",
         "premise": "Good Sex Pick-Up Line",
-        "punchline": "Man: Do you want to have good sex?"
+        "punchline": "Man: Do you want to have good sex? \nWoman: Ehh no\u2026 Sorry? \nMan: Well you should come back to my place!"
     },
     "196": {
         "category": "Pick Up Lines",
