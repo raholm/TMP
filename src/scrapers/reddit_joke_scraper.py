@@ -1,7 +1,7 @@
 import json
 import time
-
 import os
+
 from joblib import Parallel, delayed
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
@@ -174,59 +174,8 @@ def run_joke_scraper():
 	jokes = Parallel(n_jobs=1)(delayed(scraper.scrape)(start_url) for start_url in start_urls)
 
 
-# formatted_jokes = {}
-# joke_id = 1
-#
-# for subreddit_jokes in jokes:
-# 	for id, premise, punchline, subreddit in subreddit_jokes:
-# 		formatted_jokes[joke_id] = {"id": id,
-# 									"premise": premise,
-# 									"punchline": punchline,
-# 									"subreddit": subreddit}
-# 		joke_id += 1
-#
-# with open("../data/jokes.json", "w", encoding="utf-8") as outfile:
-# 	json.dump(formatted_jokes, outfile, indent=4, sort_keys=True)
-
-def get_reddit_joke_files():
-	directory = get_env_variable("TMP_DATA_PATH") + "/reddit_raw"
-	for root, dirs, files in os.walk(directory):
-		for file in files:
-			if file.endswith(".json"):
-				yield os.path.join(root, file)
-
-
-def get_all_reddit_jokes():
-	jokes = {}
-
-	for file in get_reddit_joke_files():
-		with open(file, "r") as infile:
-			data = json.load(infile)
-
-		for key, value in data.items():
-			id = value["id"]
-			premise = value["premise"]
-			punchline = value["punchline"]
-			subreddit = value["subreddit"]
-
-			jokes[id] = {"premise": premise,
-						 "punchline": punchline,
-						 "subreddit": subreddit}
-
-	print(len(jokes))
-
-	return jokes
-
-
 def main():
-	# run_joke_scraper()
-	get_all_reddit_jokes()
-
-
-# with open("../data/jokes.json", "r") as infile:
-# 	jokes = json.load(infile)
-#
-# print(len(jokes))
+	run_joke_scraper()
 
 
 if __name__ == "__main__":

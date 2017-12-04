@@ -1,8 +1,8 @@
 import json
-from collections import defaultdict
-
 import os
 import scrapy
+
+from collections import defaultdict
 from scrapy import signals
 from scrapy.crawler import CrawlerProcess
 
