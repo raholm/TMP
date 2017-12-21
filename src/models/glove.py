@@ -3,7 +3,7 @@ import csv
 import pandas as pd
 import numpy as np
 
-from src.util.env import get_project_path
+from src.util.env import get_project_model_path
 
 
 def read_glove_embeddings_df(size=300):
@@ -31,7 +31,7 @@ def _get_glove_file_path(size):
         raise ValueError("Invalid embedding size : %s" % (size,))
 
     filename = "glove.6B.%id.txt" % size
-    file_path = os.path.join(get_project_path(), "models", filename)
+    file_path = os.path.join(get_project_model_path(), filename)
 
     return file_path
 
