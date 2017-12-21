@@ -4,7 +4,7 @@ from src.curation.joke import FunnyShortJokesJoke
 
 
 class RawJokeReader(object):
-	def parse(self, file):
+	def read(self, file):
 		jokes = []
 		data = self._load_data(file)
 
@@ -87,3 +87,28 @@ class RawKickassHumorJokeReader(RawJokeReader):
 			.replace("funny", "") \
 			.replace("jokes", "")
 		return category.strip()
+
+
+class ProcessedJokeReader(object):
+	def read(self, file):
+		with open(file, "r") as infile:
+			jokes = []
+
+			for line in infile:
+				content = json.loads(line)
+				jokes.append(self._create_joke(content))
+
+		return jokes
+
+	def _create_joke(self, content):
+		raise NotImplementedError
+
+
+class ProcessedFunnyShortJokesJokeReader(ProcessedJokeReader):
+	def _create_joke(self, content):
+		joke = FunnyShortJokesJoke(content["category"],
+								   content["premise"],
+								   content["joke"])
+		joke.nouns_ = content["nouns_"]
+		joke.embeddings_ = content["embeddings_"]
+		return joke
