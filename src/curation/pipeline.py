@@ -68,7 +68,7 @@ class AddNouns(PipelineProcess):
 		for word in joke.premise.split():
 			nouns.add(word.lower())
 
-		joke.nouns_ = nouns
+		joke.nouns_ = list(nouns)
 		return joke
 
 	@staticmethod
@@ -85,6 +85,11 @@ class AddGloveEmbeddings(PipelineProcess):
 			raise ValueError("Joke does not have nouns_. Please run AddNouns before.")
 
 		joke.embeddings_ = get_word_embedding_dict(joke.nouns_, self.model)
+
+		for key, value in joke.embeddings_.items():
+			if value is not None:
+				joke.embeddings_[key] = value.tolist()
+
 		return joke
 
 

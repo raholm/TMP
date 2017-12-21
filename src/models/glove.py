@@ -8,7 +8,8 @@ from src.util.env import get_project_model_path
 
 def read_glove_embeddings_df(size=300):
 	file_path = _get_glove_file_path(size)
-	return pd.read_table(file_path, sep=" ", index_col=0, header=None, quoting=csv.QUOTE_NONE)
+	return pd.read_table(file_path, sep=" ", index_col=0,
+						 header=None, quoting=csv.QUOTE_NONE)
 
 
 def read_glove_embeddings_dict(size=300):
