@@ -33,7 +33,7 @@
         "category": "Surreal Jokes",
         "id": "post-8783",
         "premise": "Before I Die",
-        "punchline": "Before I die I\u2019m gonna swallow a whole bag of popcorn kernels. "
+        "punchline": "Before I die I\u2019m gonna swallow a whole bag of popcorn kernels.  My cremation is gonna be epic. "
     },
     "7": {
         "category": "Surreal Jokes",
@@ -85,15 +85,15 @@
     },
     "15": {
         "category": "Surreal Jokes",
-        "id": "post-196",
-        "premise": "The Ultimate Question",
-        "punchline": "Why is there a light in the fridge and not in the freezer?"
-    },
-    "16": {
-        "category": "Surreal Jokes",
         "id": "post-6252",
         "premise": "Lost",
         "punchline": "I\u2019ve lost my home, I\u2019ve lost control and I can\u2019t see any escape. Definitely time to get a new keyboard. "
+    },
+    "16": {
+        "category": "Surreal Jokes",
+        "id": "post-196",
+        "premise": "The Ultimate Question",
+        "punchline": "Why is there a light in the fridge and not in the freezer?"
     },
     "17": {
         "category": "Surreal Jokes",
@@ -103,27 +103,27 @@
     },
     "18": {
         "category": "Surreal Jokes",
-        "id": "post-3154",
-        "premise": "Tree Carving",
-        "punchline": "Why do some people think it\u2019s cute when lovers carve their names into a tree? I personally think taking a knife on a date is a bit creepy. "
+        "id": "post-7702",
+        "premise": "Great Power",
+        "punchline": "With great power comes great electricity bill."
     },
     "19": {
+        "category": "Surreal Jokes",
+        "id": "post-7702",
+        "premise": "Great Power",
+        "punchline": "With great power comes great electricity bill."
+    },
+    "20": {
         "category": "Surreal Jokes",
         "id": "post-10203",
         "premise": "Fun idea",
         "punchline": "Fun idea. If you have no kids hire a babysitter anyway and tell them the kids are asleep upstairs and not to be disturbed. When you come home ask them why the kids are missing. "
     },
-    "20": {
+    "21": {
         "category": "Surreal Jokes",
         "id": "post-3154",
         "premise": "Tree Carving",
         "punchline": "Why do some people think it\u2019s cute when lovers carve their names into a tree? I personally think taking a knife on a date is a bit creepy. "
-    },
-    "21": {
-        "category": "Surreal Jokes",
-        "id": "post-3283",
-        "premise": "Ikea Trousers",
-        "punchline": "It\u2019s amazing how quickly the sales staff at Ikea come to \u201cassist you\u201d once you take off your trousers and get into one of their beds."
     },
     "22": {
         "category": "Surreal Jokes",
@@ -133,15 +133,15 @@
     },
     "23": {
         "category": "Surreal Jokes",
-        "id": "post-7901",
-        "premise": "Ouija board",
-        "punchline": "The following conversation took place while using a Ouija board."
+        "id": "post-2879",
+        "premise": "Someone Close",
+        "punchline": "Someone close to me died the other day. Luckily there was another space available on the bus so I moved seats. "
     },
     "24": {
         "category": "Surreal Jokes",
-        "id": "post-1927",
-        "premise": "Night Out",
-        "punchline": "Had a really great night out last night according to my police report."
+        "id": "post-7901",
+        "premise": "Ouija board",
+        "punchline": "The following conversation took place while using a Ouija board. Me: Will I ever find true love? \nOuija board: W O U L D U L I K E S O M E T E A \nMe: Not now grandma, I\u2019m busy. "
     },
     "25": {
         "category": "Surreal Jokes",
@@ -151,27 +151,27 @@
     },
     "26": {
         "category": "Surreal Jokes",
+        "id": "post-10538",
+        "premise": "Fun Fact",
+        "punchline": "Fun fact. If humans held hands around the equator of the earth most of them would drown."
+    },
+    "27": {
+        "category": "Surreal Jokes",
         "id": "post-3751",
         "premise": "Drink Driving",
         "punchline": "I used to think drink driving was bad but apparently my local liquor store told me that they only sell alcohol to people with driving licences. "
     },
-    "27": {
+    "28": {
         "category": "Surreal Jokes",
         "id": "post-2801",
         "premise": "Bad Teeth",
-        "punchline": "Q. What\u2019s brown and bad for your teeth?"
-    },
-    "28": {
-        "category": "Surreal Jokes",
-        "id": "post-10538",
-        "premise": "Fun Fact",
-        "punchline": "Fun fact. If humans held hands around the equator of the earth most of them would drown."
+        "punchline": "Q. What\u2019s brown and bad for your teeth? \nA. A baseball bat. "
     },
     "29": {
         "category": "Surreal Jokes",
         "id": "post-2867",
         "premise": "Breast Implants",
-        "punchline": "Woman with breast implants = Cheap and fake"
+        "punchline": "Woman with breast implants = Cheap and fake \nWoman with breast implants that has a squeaky toy inside = Genius"
     },
     "30": {
         "category": "Surreal Jokes",
@@ -237,7 +237,7 @@
         "category": "Surreal Jokes",
         "id": "post-929",
         "premise": "Lottery",
-        "punchline": "Q. What has no arms, no legs, and screws retards?"
+        "punchline": "Q. What has no arms, no legs, and screws retards? \nA. The lottery."
     },
     "41": {
         "category": "Surreal Jokes",
@@ -253,75 +253,75 @@
     },
     "43": {
         "category": "Surreal Jokes",
-        "id": "post-10277",
-        "premise": "Sand",
-        "punchline": "Did they name the white powdery stuff you get at the beach \u2018sand\u2019 because it\u2019s between the sea and the land?"
-    },
-    "44": {
-        "category": "Surreal Jokes",
         "id": "post-5825",
         "premise": "Cinema",
         "punchline": "Got thrown out the cinema today for bringing my own food. I couldn\u2019t resist.. the prices are way too high and also I haven\u2019t had a barbecue in months. "
+    },
+    "44": {
+        "category": "Surreal Jokes",
+        "id": "post-10277",
+        "premise": "Sand",
+        "punchline": "Did they name the white powdery stuff you get at the beach \u2018sand\u2019 because it\u2019s between the sea and the land?"
     },
     "45": {
         "category": "Surreal Jokes",
         "id": "post-8685",
         "premise": "Crazy Statistic",
-        "punchline": "Just heard on the radio that apparantly 1 in 20 people live next door to a peodophile."
+        "punchline": "Just heard on the radio that apparantly 1 in 20 people live next door to a peodophile. I don\u2019t\u2026 I live next to a really fit 12 year old. "
     },
     "46": {
         "category": "Surreal Jokes",
-        "id": "post-5436",
-        "premise": "Invisible Man",
-        "punchline": "The following conversation took place in a hospital."
+        "id": "post-9009",
+        "premise": "Fridge",
+        "punchline": "Why is there a \u2018d\u2019 in the word fridge but not in the word refrigerator? "
     },
     "47": {
         "category": "Surreal Jokes",
-        "id": "post-3507",
-        "premise": "Graffiti Artist",
-        "punchline": "Q. What do you call a graffiti artist who\u2018s impotent?"
+        "id": "post-3634",
+        "premise": "Psychology Graduate",
+        "punchline": "Just had a really interesting conversation with a Psychology graduate about how on average people tend to day-dream about 40% of the time. He also said something else that was interesting but I forgot the rest of the conversation, will have to ask him again next time he serves me in McDonald\u2019s."
     },
     "48": {
         "category": "Surreal Jokes",
-        "id": "post-9009",
-        "premise": "Fridge",
-        "punchline": "Why is there a \u2018d\u2019 in the word fridge but not in the word refrigerator? "
+        "id": "post-5436",
+        "premise": "Invisible Man",
+        "punchline": "The following conversation took place in a hospital. Secretary: \u201cDoctor the invisible man is here, he says he had an appointment.\u201d \nDoctor: \u201cTell him i cant see him.\u201d"
     },
     "49": {
         "category": "Surreal Jokes",
-        "id": "post-9009",
-        "premise": "Fridge",
-        "punchline": "Why is there a \u2018d\u2019 in the word fridge but not in the word refrigerator? "
+        "id": "post-3634",
+        "premise": "Psychology Graduate",
+        "punchline": "Just had a really interesting conversation with a Psychology graduate about how on average people tend to day-dream about 40% of the time. He also said something else that was interesting but I forgot the rest of the conversation, will have to ask him again next time he serves me in McDonald\u2019s."
     },
     "50": {
+        "category": "Surreal Jokes",
+        "id": "post-2604",
+        "premise": "Car Crash",
+        "punchline": "Heard on the radio today that someone in the world crashes their car every 30 seconds. Maybe they should take away his licence. "
+    },
+    "51": {
         "category": "Surreal Jokes",
         "id": "post-3818",
         "premise": "40\u2033 TV Screen",
         "punchline": "I love self checkout machines at supermarkets. Just got a 40\u2033 TV for the same price as a bag of apples. "
     },
-    "51": {
+    "52": {
         "category": "Surreal Jokes",
         "id": "post-4074",
         "premise": "Garage",
         "punchline": "I used to have a job working at a garage fitting tires but I couldn\u2019t handle the pressure."
     },
-    "52": {
+    "53": {
         "category": "Surreal Jokes",
         "id": "post-4081",
         "premise": "Work Accident",
         "punchline": "Just received \u00a310,000 after a recent accident at work. I pushed my boss down the stairs then drove off with his car which I sold on eBay."
     },
-    "53": {
+    "54": {
         "category": "Surreal Jokes",
         "id": "post-4096",
         "premise": "Dead Leg",
         "punchline": "I woke up with a dead leg this morning. That\u2019s the last time I take out a loan with the mafia. "
-    },
-    "54": {
-        "category": "Surreal Jokes",
-        "id": "post-2604",
-        "premise": "Car Crash",
-        "punchline": "Heard on the radio today that someone in the world crashes their car every 30 seconds. Maybe they should take away his licence. "
     },
     "55": {
         "category": "Surreal Jokes",
@@ -361,15 +361,15 @@
     },
     "61": {
         "category": "Surreal Jokes",
-        "id": "post-823",
-        "premise": "Vegetable Eating",
-        "punchline": "Whats the hardest part of a vegetable to eat? the wheelchair"
-    },
-    "62": {
-        "category": "Surreal Jokes",
         "id": "post-6317",
         "premise": "Recent Survey",
         "punchline": "Accordion to a recent survey 90% of people don\u2019t notice when you replace words with the names of musical instruments."
+    },
+    "62": {
+        "category": "Surreal Jokes",
+        "id": "post-4139",
+        "premise": "Disappear",
+        "punchline": "How come everyone loves it when when a magician makes stuff disappear but when an airline pilot does it everyone freaks out?"
     },
     "63": {
         "category": "Surreal Jokes",
@@ -381,7 +381,7 @@
         "category": "Surreal Jokes",
         "id": "post-3723",
         "premise": "New Years Resolution",
-        "punchline": "After hours of thinking I\u2019ve finally decided on my new years resolution\u2026"
+        "punchline": "After hours of thinking I\u2019ve finally decided on my new years resolution\u2026 1920 x 1080"
     },
     "65": {
         "category": "Surreal Jokes",
@@ -393,337 +393,337 @@
         "category": "Surreal Jokes",
         "id": "post-779",
         "premise": "doorbell",
-        "punchline": "Knock knock."
+        "punchline": "Knock knock. \nwhose there? \n\u201cDoorbell repair man\u201c"
     },
     "67": {
         "category": "Surreal Jokes",
-        "id": "post-315",
-        "premise": "Weather Forcast",
-        "punchline": "The weather forecast for tonight\u2026. Dark! "
+        "id": "post-10039",
+        "premise": "Green And Fuzzy",
+        "punchline": "What\u2019s green and fuzzy and can kill you if it falls out of a tree? \nA snooker table. "
     },
     "68": {
         "category": "Surreal Jokes",
-        "id": "post-1549",
-        "premise": "Road-kill",
-        "punchline": "My friend got me a book for my birthday called \u2018Recipes for Cooking Road-kill\u2019. I found some road-kill the other day, cooked it and it was delicious.. Not sure what to do with the bicycle though. "
+        "id": "post-1642",
+        "premise": "Cooking",
+        "punchline": "I tried cooking with wine for the 1st time last night. After 5 glasses I can\u2019t remember what happened and I woke up on the kitchen floor with an empty bottle."
     },
     "69": {
         "category": "Surreal Jokes",
-        "id": "post-4246",
-        "premise": "Fat Woman",
-        "punchline": "Drove my car into a fat woman today. I was gonna drive around her but I didn\u2019t have enough gas."
+        "id": "post-7752",
+        "premise": "Letter W",
+        "punchline": "Why is the letter W called double-u and not double-V? \ufeff"
     },
     "70": {
         "category": "Surreal Jokes",
-        "id": "post-1590",
-        "premise": "Sleeping",
-        "punchline": "I slept like a log last night\u2026. Woke up in a forest covered with ants. "
+        "id": "post-3202",
+        "premise": "Fish Spa Therapy",
+        "punchline": "Took my grandma to a fish spa therapy center where the fish eat dead skin for only $45. It was so much cheaper than getting her buried in the cemetery. "
     },
     "71": {
-        "category": "Surreal Jokes",
-        "id": "post-3830",
-        "premise": "Hospice",
-        "punchline": "Q. Why did the airport go to the hospice?"
-    },
-    "72": {
-        "category": "Surreal Jokes",
-        "id": "post-10039",
-        "premise": "Green And Fuzzy",
-        "punchline": "What\u2019s green and fuzzy and can kill you if it falls out of a tree?"
-    },
-    "73": {
         "category": "Surreal Jokes",
         "id": "post-2832",
         "premise": "Adopt Baby",
         "punchline": "Me and my wife tried to adopt a baby last week but unfortunately the supermarket security guards saw us on CCTV and we were arrested."
     },
-    "74": {
+    "72": {
         "category": "Surreal Jokes",
         "id": "post-315",
         "premise": "Weather Forcast",
         "punchline": "The weather forecast for tonight\u2026. Dark! "
     },
+    "73": {
+        "category": "Surreal Jokes",
+        "id": "post-10039",
+        "premise": "Green And Fuzzy",
+        "punchline": "What\u2019s green and fuzzy and can kill you if it falls out of a tree? \nA snooker table. "
+    },
+    "74": {
+        "category": "Surreal Jokes",
+        "id": "post-1642",
+        "premise": "Cooking",
+        "punchline": "I tried cooking with wine for the 1st time last night. After 5 glasses I can\u2019t remember what happened and I woke up on the kitchen floor with an empty bottle."
+    },
     "75": {
         "category": "Surreal Jokes",
-        "id": "post-1549",
-        "premise": "Road-kill",
-        "punchline": "My friend got me a book for my birthday called \u2018Recipes for Cooking Road-kill\u2019. I found some road-kill the other day, cooked it and it was delicious.. Not sure what to do with the bicycle though. "
+        "id": "post-7752",
+        "premise": "Letter W",
+        "punchline": "Why is the letter W called double-u and not double-V? \ufeff"
     },
     "76": {
         "category": "Surreal Jokes",
-        "id": "post-4246",
-        "premise": "Fat Woman",
-        "punchline": "Drove my car into a fat woman today. I was gonna drive around her but I didn\u2019t have enough gas."
+        "id": "post-3202",
+        "premise": "Fish Spa Therapy",
+        "punchline": "Took my grandma to a fish spa therapy center where the fish eat dead skin for only $45. It was so much cheaper than getting her buried in the cemetery. "
     },
     "77": {
+        "category": "Surreal Jokes",
+        "id": "post-4250",
+        "premise": "Being Lonely",
+        "punchline": "Q. What\u2019s the worst thing about being lonely? \nA. Playing frisbee. "
+    },
+    "78": {
+        "category": "Surreal Jokes",
+        "id": "post-10839",
+        "premise": "Toothpaste",
+        "punchline": "Got some extra sensitive toothpaste the other day. It gets really jealous if I use other toothpastes. "
+    },
+    "79": {
         "category": "Surreal Jokes",
         "id": "post-3314",
         "premise": "Blue Ray",
         "punchline": "I remember the days when \u2018Blue Ray\u2019 was an elderly gentleman who drowned in our local swimming pool."
     },
-    "78": {
+    "80": {
         "category": "Surreal Jokes",
-        "id": "post-4250",
-        "premise": "Being Lonely",
-        "punchline": "Q. What\u2019s the worst thing about being lonely?"
+        "id": "post-3416",
+        "premise": "Crowded Lift",
+        "punchline": "Farting in a crowded lift is wrong on multiple levels!"
     },
-    "79": {
+    "81": {
+        "category": "Surreal Jokes",
+        "id": "post-2019",
+        "premise": "Airline Pilot",
+        "punchline": "Lost my job as an airline pilot last week\u2026 Apparently all roads don\u2019t lead to Rome."
+    },
+    "82": {
+        "category": "Surreal Jokes",
+        "id": "post-2089",
+        "premise": "Grass",
+        "punchline": "I saw a sign today day telling please keep off the grass. I wonder how it got there?"
+    },
+    "83": {
+        "category": "Surreal Jokes",
+        "id": "post-2775",
+        "premise": "Library",
+        "punchline": "Did you hear about the police raid of a library in Bucharest?"
+    },
+    "84": {
+        "category": "Surreal Jokes",
+        "id": "post-3288",
+        "premise": "Heaven",
+        "punchline": "The saddest day of my life was seeing my mum crying after my dad went to heaven. Heaven was the name of his favourite gay massage parlour. "
+    },
+    "85": {
         "category": "Surreal Jokes",
         "id": "post-2991",
         "premise": "New Harry Potter Film",
         "punchline": "Have you heard about the new Harry Potter film coming out? He\u2019s gonna be running his own abortion clinic using his new magic spell, fetus deletus. "
     },
-    "80": {
+    "86": {
         "category": "Surreal Jokes",
         "id": "post-2701",
         "premise": "Dracula",
-        "punchline": "Why did Dracula go to the doctors? "
-    },
-    "81": {
-        "category": "Surreal Jokes",
-        "id": "post-3083",
-        "premise": "Cool Budweiser",
-        "punchline": "Being stuck in traffic can be really annoying unless you happen to have a nice cool Budweiser in your glove box."
-    },
-    "82": {
-        "category": "Surreal Jokes",
-        "id": "post-2455",
-        "premise": "Speed Bumps",
-        "punchline": "My psychiatrist says I have a fear of speed bumps but now I\u2019m slowly beginning to get over it."
-    },
-    "83": {
-        "category": "Surreal Jokes",
-        "id": "post-3416",
-        "premise": "Crowded Lift",
-        "punchline": "Farting in a crowded lift is wrong on multiple levels!"
-    },
-    "84": {
-        "category": "Surreal Jokes",
-        "id": "post-10467",
-        "premise": "Tree",
-        "punchline": "If a tree falls in the forest and nobody is around to hear it\u2026"
-    },
-    "85": {
-        "category": "Surreal Jokes",
-        "id": "post-3083",
-        "premise": "Cool Budweiser",
-        "punchline": "Being stuck in traffic can be really annoying unless you happen to have a nice cool Budweiser in your glove box."
-    },
-    "86": {
-        "category": "Surreal Jokes",
-        "id": "post-2455",
-        "premise": "Speed Bumps",
-        "punchline": "My psychiatrist says I have a fear of speed bumps but now I\u2019m slowly beginning to get over it."
+        "punchline": "Why did Dracula go to the doctors?  Because of his coffin."
     },
     "87": {
         "category": "Surreal Jokes",
-        "id": "post-3416",
-        "premise": "Crowded Lift",
-        "punchline": "Farting in a crowded lift is wrong on multiple levels!"
+        "id": "post-3083",
+        "premise": "Cool Budweiser",
+        "punchline": "Being stuck in traffic can be really annoying unless you happen to have a nice cool Budweiser in your glove box."
     },
     "88": {
         "category": "Surreal Jokes",
-        "id": "post-10467",
-        "premise": "Tree",
-        "punchline": "If a tree falls in the forest and nobody is around to hear it\u2026"
+        "id": "post-2455",
+        "premise": "Speed Bumps",
+        "punchline": "My psychiatrist says I have a fear of speed bumps but now I\u2019m slowly beginning to get over it."
     },
     "89": {
         "category": "Surreal Jokes",
-        "id": "post-1589",
-        "premise": "Trousers",
-        "punchline": "Went shopping last week to try and find some camouflage trousers, couldn\u2019t find any."
+        "id": "post-10467",
+        "premise": "Tree",
+        "punchline": "If a tree falls in the forest and nobody is around to hear it\u2026 \nMy illegal logging business is a great success. "
     },
     "90": {
         "category": "Surreal Jokes",
-        "id": "post-3297",
-        "premise": "Estate Agents",
-        "punchline": "Can\u2019t believe what fascists estate agents are. I put my house up for rent the other day and they said it only had 2 bedrooms when it actually has 5 bedrooms. If I want to put a bed in my kitchen, living room and hallway it\u2019s none of their business. "
+        "id": "post-1980",
+        "premise": "Heads",
+        "punchline": "Q. What\u2019s the difference between a collection of decapitated heads and a Ferrari? \nA. I don\u2019t have a Ferrari in my garage. "
     },
     "91": {
         "category": "Surreal Jokes",
-        "id": "post-1980",
-        "premise": "Heads",
-        "punchline": "Q. What\u2019s the difference between a collection of decapitated heads and a Ferrari?"
+        "id": "post-3877",
+        "premise": "Hit a Kid",
+        "punchline": "I accidentally hit a kid with my car last night. It wasn\u2019t serious, luckily nobody saw me. "
     },
     "92": {
+        "category": "Surreal Jokes",
+        "id": "post-1692",
+        "premise": "Bread",
+        "punchline": "Went to a fancy dress party last night dressed as a loaf of bread, the birds were all over me. "
+    },
+    "93": {
+        "category": "Surreal Jokes",
+        "id": "post-10467",
+        "premise": "Tree",
+        "punchline": "If a tree falls in the forest and nobody is around to hear it\u2026 \nMy illegal logging business is a great success. "
+    },
+    "94": {
+        "category": "Surreal Jokes",
+        "id": "post-1980",
+        "premise": "Heads",
+        "punchline": "Q. What\u2019s the difference between a collection of decapitated heads and a Ferrari? \nA. I don\u2019t have a Ferrari in my garage. "
+    },
+    "95": {
         "category": "Surreal Jokes",
         "id": "post-3620",
         "premise": "William Hill",
         "punchline": "Met somebody at work today called William Hill, what are the odds?"
     },
-    "93": {
-        "category": "Surreal Jokes",
-        "id": "post-1589",
-        "premise": "Trousers",
-        "punchline": "Went shopping last week to try and find some camouflage trousers, couldn\u2019t find any."
-    },
-    "94": {
-        "category": "Surreal Jokes",
-        "id": "post-3297",
-        "premise": "Estate Agents",
-        "punchline": "Can\u2019t believe what fascists estate agents are. I put my house up for rent the other day and they said it only had 2 bedrooms when it actually has 5 bedrooms. If I want to put a bed in my kitchen, living room and hallway it\u2019s none of their business. "
-    },
-    "95": {
-        "category": "Surreal Jokes",
-        "id": "post-2469",
-        "premise": "Book joke",
-        "punchline": "A large book fell on my head today."
-    },
     "96": {
         "category": "Surreal Jokes",
         "id": "post-4021",
         "premise": "The Surfer",
-        "punchline": "Surfer 1: I love surfing!"
+        "punchline": "Surfer 1: I love surfing! \nSurfer 2: I thought you\u2019re afraid of surfing! \nSurfer 1: The Internet, that is!"
     },
     "97": {
         "category": "Surreal Jokes",
-        "id": "post-2469",
-        "premise": "Book joke",
-        "punchline": "A large book fell on my head today."
+        "id": "post-4061",
+        "premise": "Baby Sponge",
+        "punchline": "They say a baby has a brain like a sponge but I prefer to use a mop. "
     },
     "98": {
         "category": "Surreal Jokes",
-        "id": "post-413",
-        "premise": "HOUK",
-        "punchline": "Q:How many transexuals does it take to screw in a lightbulb."
+        "id": "post-2469",
+        "premise": "Book joke",
+        "punchline": "A large book fell on my head today. I\u2019ve only got mySHELF to blame"
     },
     "99": {
+        "category": "Surreal Jokes",
+        "id": "post-413",
+        "premise": "HOUK",
+        "punchline": "Q:How many transexuals does it take to screw in a lightbulb. A: None! Transexuals screw in truck stops."
+    },
+    "100": {
         "category": "Surreal Jokes",
         "id": "post-568",
         "premise": "Green and Invsible",
         "punchline": "What\u2019s green and Invisible? This cucumber."
     },
-    "100": {
+    "101": {
         "category": "Surreal Jokes",
         "id": "post-2779",
         "premise": "Round The World",
         "punchline": "Just got a round the world plane ticket for only $1200. After just 40 hrs I was back at JFK airport. "
     },
-    "101": {
+    "102": {
         "category": "Surreal Jokes",
         "id": "post-3954",
         "premise": "New Born Babies",
         "punchline": "Why do new born babies never get any birthday cake?"
     },
-    "102": {
+    "103": {
         "category": "Surreal Jokes",
         "id": "post-2743",
         "premise": "Deaf Thinking",
         "punchline": "When a deaf person is thinking, what language is it in?"
     },
-    "103": {
+    "104": {
         "category": "Surreal Jokes",
         "id": "post-4150",
         "premise": "Stupid Doctor",
         "punchline": "I almost died today because of my stupid doctor. He told me I should get off the bus 1 stop early to get some exercise. I ended up walking 50 miles after catching the Megabus. "
     },
-    "104": {
+    "105": {
         "category": "Surreal Jokes",
         "id": "post-8070",
         "premise": "Dragon",
         "punchline": "Once I saved a girl from a fire-breathing dragon and all she could say was \u201cYou need to fix your drug problem\u201d."
     },
-    "105": {
+    "106": {
         "category": "Surreal Jokes",
         "id": "post-5603",
         "premise": "Man Trapped",
         "punchline": "Twenty years ago I used to feel like I was a man trapped inside a woman\u2019s body but then I finally decided to come out of my mum and I was born."
     },
-    "106": {
+    "107": {
         "category": "Surreal Jokes",
         "id": "post-10550",
         "premise": "Famous Quotes",
-        "punchline": "\u201cLet me in or i\u2019m going to punch down your house\u201d"
-    },
-    "107": {
-        "category": "Surreal Jokes",
-        "id": "post-2591",
-        "premise": "Manslaughter",
-        "punchline": "Had a really fun night out last night, there\u2019s nothing better than manslaughter. I also enjoy hearing women laugh as well. "
+        "punchline": "\u201cLet me in or i\u2019m going to punch down your house\u201d \nInventor of knocking, 8000 BC"
     },
     "108": {
         "category": "Surreal Jokes",
         "id": "post-7615",
         "premise": "Mushrooms",
-        "punchline": "Me: How do I know when the mushrooms are starting to work?"
+        "punchline": "Me: How do I know when the mushrooms are starting to work? \nFriend: You\u2019ll know, it hits you pretty hard! \nMe: I don\u2019t feel anything. \nToaster: Give it time!"
     },
     "109": {
+        "category": "Surreal Jokes",
+        "id": "post-2591",
+        "premise": "Manslaughter",
+        "punchline": "Had a really fun night out last night, there\u2019s nothing better than manslaughter. I also enjoy hearing women laugh as well. "
+    },
+    "110": {
         "category": "Surreal Jokes",
         "id": "post-10816",
         "premise": "TV Show",
         "punchline": "What if life is a reality tv show created by aliens and the winner is the person who gets the most guests to go to their funeral."
     },
-    "110": {
+    "111": {
         "category": "Surreal Jokes",
         "id": "post-2183",
         "premise": "Facebook Button",
         "punchline": "Facebook really needs a \u201cYou\u2019re an idiot, I want to punch you in the throat!\u201d button. "
     },
-    "111": {
+    "112": {
         "category": "Surreal Jokes",
         "id": "post-2777",
         "premise": "Iphone Charging",
         "punchline": "Can\u2019t believe how long my Iphone is taking to charge. It\u2019s been soaking in Apple Juice for about 8 hours now but still nothing is coming up on the screen."
     },
-    "112": {
+    "113": {
         "category": "Surreal Jokes",
         "id": "post-973",
         "premise": "Roof Sale",
         "punchline": "Im selling my roof for free\u2026 i gues you can say its on the house!"
     },
-    "113": {
+    "114": {
         "category": "Surreal Jokes",
         "id": "post-1523",
         "premise": "Lie Detector",
         "punchline": "I took a lie dectector test today, actually I didn\u2019t really that was a lie. "
     },
-    "114": {
+    "115": {
         "category": "Surreal Jokes",
         "id": "post-2972",
         "premise": "Free Tattoo",
         "punchline": "Got a free tattoo on my arm yesterday. All I had to do was accidentally pour boiling water on myself. "
     },
-    "115": {
+    "116": {
         "category": "Surreal Jokes",
         "id": "post-4303",
         "premise": "Fathers Footsteps",
         "punchline": "Got a new job today following in my fathers footsteps\u2026 I\u2019ve become a minesweeper. "
     },
-    "116": {
+    "117": {
         "category": "Surreal Jokes",
         "id": "post-4155",
         "premise": "Aromatherapy Conference",
         "punchline": "Me and my sister got thrown out of our hotel room the other night after going to an Aromatherapy Conference in New York. Apparently the hotel has strict rules against incense."
     },
-    "117": {
+    "118": {
         "category": "Surreal Jokes",
         "id": "post-3963",
         "premise": "Monsanto",
         "punchline": "Monsanto have just released a new genetically modified insect to help with weight loss. It\u2019s a mosquito but instead of sucking blood it sucks out fat."
     },
-    "118": {
+    "119": {
         "category": "Surreal Jokes",
         "id": "post-9904",
         "premise": "Imminent Death",
         "punchline": "We only have 2 minutes left before we die\u2026 but every time you breath it resets the clock."
     },
-    "119": {
+    "120": {
         "category": "Surreal Jokes",
         "id": "post-3928",
         "premise": "Gay Friend",
         "punchline": "I think my friend Steve is gay but i\u2019m not sure, I can never remember names. "
     },
-    "120": {
-        "category": "Surreal Jokes",
-        "id": "post-8975",
-        "premise": "Telepathic",
-        "punchline": "I used to think I was telepathic with the ability to hear people\u2019s thoughts but today my psychiatrist told me I have schizophrenia. "
-    },
     "121": {
         "category": "Surreal Jokes",
-        "id": "post-2053",
-        "premise": "Autocorrect",
-        "punchline": "I really ducking hate autocorrect. "
+        "id": "post-3928",
+        "premise": "Gay Friend",
+        "punchline": "I think my friend Steve is gay but i\u2019m not sure, I can never remember names. "
     },
     "122": {
         "category": "Surreal Jokes",
@@ -733,123 +733,123 @@
     },
     "123": {
         "category": "Surreal Jokes",
+        "id": "post-2053",
+        "premise": "Autocorrect",
+        "punchline": "I really ducking hate autocorrect. "
+    },
+    "124": {
+        "category": "Surreal Jokes",
         "id": "post-6030",
         "premise": "Pencil humor",
         "punchline": "What do you call a pencil that can take a crap? A number 2 pencil."
     },
-    "124": {
+    "125": {
         "category": "Surreal Jokes",
         "id": "post-2330",
         "premise": "Beach",
-        "punchline": "Q. Why is sand on the beach yellow?"
+        "punchline": "Q. Why is sand on the beach yellow? \nA. Because the sea weed."
     },
-    "125": {
+    "126": {
         "category": "Surreal Jokes",
         "id": "post-8659",
         "premise": "The Sun",
         "punchline": "Spent the whole of last night sitting in bed thinking about the sun and where it comes from \u2026. and then it dawned on me."
     },
-    "126": {
-        "category": "Surreal Jokes",
-        "id": "post-3138",
-        "premise": "History Of Earth",
-        "punchline": "If you condense the history of the Earth into one day.\t"
-    },
     "127": {
         "category": "Surreal Jokes",
-        "id": "post-734",
-        "premise": "Baby Bin",
-        "punchline": "Q. What\u2019s worse than seeing a baby in a dustbin?"
+        "id": "post-6030",
+        "premise": "Pencil humor",
+        "punchline": "What do you call a pencil that can take a crap? A number 2 pencil."
     },
     "128": {
         "category": "Surreal Jokes",
-        "id": "post-6441",
-        "premise": "Stoner Science Class",
-        "punchline": "Teacher: Humans have over 206 bones inside them."
+        "id": "post-734",
+        "premise": "Baby Bin",
+        "punchline": "Q. What\u2019s worse than seeing a baby in a dustbin? \nA. Finding a baby in 2 dustbins. "
     },
     "129": {
+        "category": "Surreal Jokes",
+        "id": "post-6441",
+        "premise": "Stoner Science Class",
+        "punchline": "Teacher: Humans have over 206 bones inside them. \nStudent: But sir is my consciousness not inside my brain? \nTeacher: Yes it is. \nStudent: So I think you\u2019ll find I\u2019m actually inside the bone. "
+    },
+    "130": {
         "category": "Surreal Jokes",
         "id": "post-9895",
         "premise": "Human",
         "punchline": "I came out of a human because somebody came in a human. "
     },
-    "130": {
+    "131": {
         "category": "Surreal Jokes",
         "id": "post-1231",
         "premise": "Male Bra",
         "punchline": "Why do men who wear bras get ridiculed? I wore one the other day when I went shopping and it was great for carrying my melons home. "
     },
-    "131": {
-        "category": "Surreal Jokes",
-        "id": "post-2607",
-        "premise": "Star Sign",
-        "punchline": "My girlfriend was tragically killed by a goat last week which is ironic because her star sign is Leo. "
-    },
     "132": {
-        "category": "Surreal Jokes",
-        "id": "post-8274",
-        "premise": "Toy Story",
-        "punchline": "Do the toys in Toy Story bury their dead or do they just have to watch the kids play with dead toy corpses?"
-    },
-    "133": {
         "category": "Surreal Jokes",
         "id": "post-8523",
         "premise": "Ghosts",
         "punchline": "I\u2019ll never forget my 1st week as a detective, it was terrifying. I kept seeing ghosts at every crime scene but then I found out they actually use white blankets to cover the dead."
     },
+    "133": {
+        "category": "Surreal Jokes",
+        "id": "post-2607",
+        "premise": "Star Sign",
+        "punchline": "My girlfriend was tragically killed by a goat last week which is ironic because her star sign is Leo. "
+    },
     "134": {
+        "category": "Surreal Jokes",
+        "id": "post-8274",
+        "premise": "Toy Story",
+        "punchline": "Do the toys in Toy Story bury their dead or do they just have to watch the kids play with dead toy corpses?"
+    },
+    "135": {
         "category": "Surreal Jokes",
         "id": "post-4175",
         "premise": "Apple Head",
-        "punchline": "Q. What\u2019s the difference between an apple and a decapitated head?"
+        "punchline": "Q. What\u2019s the difference between an apple and a decapitated head? \nA. I don\u2019t come all over an apple before eating it. "
     },
-    "135": {
+    "136": {
         "category": "Surreal Jokes",
         "id": "post-4288",
         "premise": "Wheat Farmer",
         "punchline": "Did you hear about the wheat farmer who got arrested by the police? Apparently he was a CEREAL killer."
     },
-    "136": {
+    "137": {
         "category": "Surreal Jokes",
         "id": "post-8328",
         "premise": "Peter Pan",
-        "punchline": "What if Peter Pan and the lost boys are actually the wondering souls of abortions?"
+        "punchline": "What if Peter Pan and the lost boys are actually the wondering souls of abortions? That would explain Captain Hook."
     },
-    "137": {
+    "138": {
         "category": "Surreal Jokes",
         "id": "post-6591",
         "premise": "Discarded Coin",
         "punchline": "Most people think that when you find a discarded coin in your house it got there by accident but I actually think it was brought there by spiders trying to pay you rent. "
     },
-    "138": {
-        "category": "Surreal Jokes",
-        "id": "post-9641",
-        "premise": "Sound of Bacon",
-        "punchline": "Hello bacon my old friend."
-    },
     "139": {
+        "category": "Surreal Jokes",
+        "id": "post-6591",
+        "premise": "Discarded Coin",
+        "punchline": "Most people think that when you find a discarded coin in your house it got there by accident but I actually think it was brought there by spiders trying to pay you rent. "
+    },
+    "140": {
         "category": "Surreal Jokes",
         "id": "post-5884",
         "premise": "Bricks",
         "punchline": "Been shittin bricks for the past few days. I accidentally swallowed some Lego over Christmas."
     },
-    "140": {
+    "141": {
         "category": "Surreal Jokes",
         "id": "post-27",
         "premise": "concept of ridicule",
         "punchline": "Why did the concept of ridicule cross the road? To get to the other side."
     },
-    "141": {
+    "142": {
         "category": "Surreal Jokes",
         "id": "post-8199",
         "premise": "Pizza Hut",
         "punchline": "A pizza is like a pie chart that shows you how much pizza you have left. This is why a lot of mathematicians work at Pizza Hut."
-    },
-    "142": {
-        "category": "Surreal Jokes",
-        "id": "post-4428",
-        "premise": "Mysteriously Vanish",
-        "punchline": "Don\u2019t you just hate it when your clothes mysteriously vanish and you get arrested for being half-naked in public. That\u2019s the last time I ever wear Bermuda shorts again."
     },
     "143": {
         "category": "Surreal Jokes",
@@ -859,23 +859,29 @@
     },
     "144": {
         "category": "Surreal Jokes",
-        "id": "post-10351",
-        "premise": "v",
-        "punchline": "v"
+        "id": "post-4428",
+        "premise": "Mysteriously Vanish",
+        "punchline": "Don\u2019t you just hate it when your clothes mysteriously vanish and you get arrested for being half-naked in public. That\u2019s the last time I ever wear Bermuda shorts again."
     },
     "145": {
         "category": "Surreal Jokes",
-        "id": "post-6822",
-        "premise": "Smaller",
-        "punchline": "What\u2019s red, sits in the corner and gets smaller and smaller?"
+        "id": "post-10351",
+        "premise": "v",
+        "punchline": "v \nDon\u2019t you just hate it when the ctrl key on your keyboard breaks."
     },
     "146": {
+        "category": "Surreal Jokes",
+        "id": "post-6822",
+        "premise": "Smaller",
+        "punchline": "What\u2019s red, sits in the corner and gets smaller and smaller? \nA baby with a potato peeler. "
+    },
+    "147": {
         "category": "Surreal Jokes",
         "id": "post-9632",
         "premise": "Childs Book",
         "punchline": "If a child can read then doesn\u2019t that make every book a child\u2019s book?"
     },
-    "147": {
+    "148": {
         "category": "Surreal Jokes",
         "id": "post-4697",
         "premise": "Giant Mushroom",
