@@ -7,54 +7,78 @@ from src.util.env import get_project_model_path
 
 
 def read_glove_embeddings_df(size=300):
-    file_path = _get_glove_file_path(size)
-    return pd.read_table(file_path, sep=" ", index_col=0, header=None, quoting=csv.QUOTE_NONE)
+	file_path = _get_glove_file_path(size)
+	return pd.read_table(file_path, sep=" ", index_col=0, header=None, quoting=csv.QUOTE_NONE)
 
 
 def read_glove_embeddings_dict(size=300):
-    file_path = _get_glove_file_path(size)
+	file_path = _get_glove_file_path(size)
 
-    model = {}
+	model = {}
 
-    with open(file_path, "r") as infile:
-        for line in infile:
-            parts = line.split()
-            word = parts[0]
-            embedding = np.array([float(val) for val in parts[1:]])
-            model[word] = embedding
+	with open(file_path, "r") as infile:
+		for line in infile:
+			parts = line.split()
+			word = parts[0]
+			embedding = np.array([float(val) for val in parts[1:]])
+			model[word] = embedding
 
-    return model
+	return model
 
 
 def _get_glove_file_path(size):
-    if size not in (50, 100, 200, 300):
-        raise ValueError("Invalid embedding size : %s" % (size,))
+	if size not in (50, 100, 200, 300):
+		raise ValueError("Invalid embedding size : %s" % (size,))
 
-    filename = "glove.6B.%id.txt" % size
-    file_path = os.path.join(get_project_model_path(), filename)
+	filename = "glove.6B.%id.txt" % size
+	file_path = os.path.join(get_project_model_path(), filename)
 
-    return file_path
+	return file_path
 
 
 def get_word_embedding(word_or_words, model):
-    if isinstance(model, dict):
-        if not isinstance(word_or_words, str):
-            return np.array([model[word] for word in word_or_words])
-        return model[word_or_words]
-    elif isinstance(model, pd.DataFrame):
-        return model.loc[word_or_words].as_matrix()
+	if isinstance(model, dict):
+		if not isinstance(word_or_words, str):
+			return np.array([model[word] for word in word_or_words])
+		return model[word_or_words]
+	elif isinstance(model, pd.DataFrame):
+		return model.loc[word_or_words].as_matrix()
 
-    raise ValueError("Unknown model : %s" % type(model))
+	raise ValueError("Unknown model : %s" % type(model))
+
+
+def get_word_embedding_dict(word_or_words, model):
+	if isinstance(model, dict):
+		if not isinstance(word_or_words, str):
+			return {word: model.get(word, None) for word in word_or_words}
+		return {word_or_words: model.get(word_or_words, None)}
+	elif isinstance(model, pd.DataFrame):
+		if not isinstance(word_or_words, str):
+			embeddings = {}
+
+			for word in word_or_words:
+				if model.index.contains(word):
+					embeddings[word] = get_word_embedding(word, model)
+				else:
+					embeddings[word] = None
+
+			return embeddings
+
+		if model.index.contains(word_or_words):
+			return {word_or_words: get_word_embedding(word_or_words, model)}
+		return {word_or_words: None}
+
+	raise ValueError("Unknown model : %s" % type(model))
 
 
 def main():
-    # model = read_glove_embeddings_df(50)
-    model = read_glove_embeddings_dict(50)
+	# model = read_glove_embeddings_df(50)
+	model = read_glove_embeddings_dict(50)
 
-    print(get_word_embedding("the", model))
-    print(get_word_embedding(["the", "what"], model))
-    print(get_word_embedding("whatthefuck", model))
+	print(get_word_embedding("the", model))
+	print(get_word_embedding(["the", "what"], model))
+	print(get_word_embedding("whatthefuck", model))
 
 
 if __name__ == '__main__':
-    main()
+	main()

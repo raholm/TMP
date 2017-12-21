@@ -1,115 +1,148 @@
 import nltk
 import re
 
-import spacy
-
-from src.curation.joke import FSJJoke
+from src.curation.joke import RedditJoke, KickassHumorJoke, FunnyShortJokesJoke
+from src.models.glove import read_glove_embeddings_dict, get_word_embedding_dict
 
 
 class PipelineProcess(object):
-    def process(self, joke):
-        raise NotImplementedError
+	def process(self, joke):
+		if not joke:
+			return None
+
+		if isinstance(joke, RedditJoke):
+			return self._process_reddit_joke(joke)
+		elif isinstance(joke, KickassHumorJoke):
+			return self._process_kickasshumor_joke(joke)
+		elif isinstance(joke, FunnyShortJokesJoke):
+			return self._process_funnyshortjokes_joke(joke)
+
+		raise ValueError("Unknown joke type : %s" % (type(joke),))
+
+	def _process_reddit_joke(self, joke):
+		raise NotImplementedError
+
+	def _process_kickasshumor_joke(self, joke):
+		raise NotImplementedError
+
+	def _process_funnyshortjokes_joke(self, joke):
+		raise NotImplementedError
 
 
 class Pipeline(PipelineProcess):
-    def __init__(self):
-        self.pipe = []
+	def __init__(self):
+		self.pipe = []
 
-    def add(self, process):
-        if not isinstance(process, PipelineProcess):
-            raise ValueError("Unknown pipeline process")
+	def add(self, process):
+		if not isinstance(process, PipelineProcess):
+			raise ValueError("Unknown pipeline process")
 
-        self.pipe.append(process)
-        return self
+		self.pipe.append(process)
+		return self
 
-    def process(self, joke):
-        if not joke:
-            return None
+	def process(self, joke):
+		if not joke:
+			return None
 
-        for proc in self.pipe:
-            joke = proc.process(joke)
+		for proc in self.pipe:
+			joke = proc.process(joke)
 
-        return joke
+		return joke
 
 
 class AddNouns(PipelineProcess):
-    def __init__(self):
-        self.tokenizer = lambda text: nltk.word_tokenize(text)
-        self.tagger = lambda tokens: nltk.pos_tag(tokens)
+	def __init__(self):
+		self.tokenizer = lambda text: nltk.word_tokenize(text)
+		self.tagger = lambda tokens: nltk.pos_tag(tokens)
 
-    # self.nlp = spacy.load("en")
+	# self.nlp = spacy.load("en")
 
-    def process(self, joke):
-        if not joke:
-            return None
+	def _process_funnyshortjokes_joke(self, joke):
+		tokens = self.tokenizer(joke.joke)
+		tags = self.tagger(tokens)
+		nouns = {word.lower() for word, tag in tags if self._is_noun(tag)}
 
-        text = joke["premise"] + joke["punchline"]
-        tokens = self.tokenizer(text)
-        tags = self.tagger(tokens)
-        nouns = (word for word, tag in tags if self._is_noun(tag))
+		for word in joke.category.split():
+			nouns.add(word.lower())
 
-        # nouns = (token.text for token in self.nlp(text) if self._is_noun(token.tag_))
+		for word in joke.premise.split():
+			nouns.add(word.lower())
 
-        joke["nouns"] = " ".join(nouns)
-        return joke
+		joke.nouns_ = nouns
+		return joke
 
-    @staticmethod
-    def _is_noun(tag):
-        return tag.startswith("NNP")
+	@staticmethod
+	def _is_noun(tag):
+		return tag.startswith("NNP")
+
+
+class AddGloveEmbeddings(PipelineProcess):
+	def __init__(self, size=50):
+		self.model = read_glove_embeddings_dict(size)
+
+	def process(self, joke):
+		if not hasattr(joke, "nouns_"):
+			raise ValueError("Joke does not have nouns_. Please run AddNouns before.")
+
+		joke.embeddings_ = get_word_embedding_dict(joke.nouns_, self.model)
+		return joke
 
 
 class Lowercase(PipelineProcess):
-    def process(self, joke):
-        if not joke:
-            return None
-
-        for key, value in joke.items():
-            if isinstance(value, str):
-                joke[key] = value.lower()
-
-        return joke
+	def _process_funnyshortjokes_joke(self, joke):
+		for attr in joke.__dict__.keys():
+			value = getattr(joke, attr)
+			if isinstance(value, str):
+				setattr(joke, attr, value.lower())
+		return joke
 
 
 class Filter(PipelineProcess):
-    def __init__(self):
-        self.url_regexp = re.compile("^http(s*)://")
+	def __init__(self):
+		self.url_regexp = re.compile("^http(s*)://")
 
-    def process(self, joke):
-        if not joke:
-            return None
+	def process(self, joke):
+		if not joke:
+			return None
 
-        if self._bad_premise(joke):
-            return None
+		if self._bad_premise(joke):
+			return None
 
-        if self._bad_punchline(joke):
-            return None
+		if self._bad_punchline(joke):
+			return None
 
-        return joke
+		return joke
 
-    def _bad_premise(self, joke):
-        return False
+	def _bad_premise(self, joke):
+		return False
 
-    def _bad_punchline(self, joke):
-        punchline = joke["punchline"]
+	def _bad_punchline(self, joke):
+		punchline = joke["punchline"]
 
-        if self.url_regexp.match(punchline):
-            return True
+		if self.url_regexp.match(punchline):
+			return True
 
-        return False
+		return False
 
 
 class Clean(PipelineProcess):
-    def __init__(self):
-        pass
+	def _process_funnyshortjokes_joke(self, joke):
+		def clean_category(category):
+			category = category.replace("Jokes", "")
+			return category.strip()
 
-    def process(self, joke):
-        if isinstance(joke, FSJJoke):
-            return self._clean_fsj_joke(joke)
+		def clean_premise(premise):
+			return premise.strip()
 
-        raise ValueError("Unknown joke type : %s" % (type(joke)))
+		def clean_joke(joke):
+			if joke.startswith("Q.") or joke.startswith("Q:"):
+				joke = re.sub("(Q|A)(\.|:)", "", joke)
+			return self._clean_whitespace(joke)
 
-    def _clean_fsj_joke(self, joke):
-        if joke.punchline.startsWith("Q."):
-            joke.punchline = joke.punchline.replace("Q.", "").replace("\nA.", "")
+		joke.category = clean_category(joke.category)
+		joke.premise = clean_premise(joke.premise)
+		joke.joke = clean_joke(joke.joke)
+		return joke
 
-        return joke
+	def _clean_whitespace(self, joke):
+		return " ".join(joke.split())
